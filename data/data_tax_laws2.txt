@@ -1,0 +1,730 @@
+What’s New In Income Tax
+Interim Budget 2024 -
+
+The budget maintained the existing tax rates for both direct and indirect taxes. 
+Taxpayers with income up to Rs 7 lakh have no tax liability.
+Finance Minister Nirmala Sitharaman also withdraws 'tax dispute' up to Rs 25,000 for the period up to the financial year 2009-10, Rs 10,000 for financial years 2010-11 to 2014-15.
+Budget 2023 Updates
+
+For individuals with income up to Rs 7 lakh, a tax rebate 
+The new tax slabs under the new tax regime will be:
+Income Slabs
+
+Tax Rates
+
+up to Rs 3 lakh
+
+Nil
+
+Rs 3 lakh- Rs 6 lakh
+
+5%
+
+Rs 6 lakh-Rs 9 lakh
+
+10%
+
+Rs 9 lakh-Rs 12 lakh
+
+15%
+
+Rs 12 lakh- Rs 15 lakh
+
+20%
+
+Above Rs 15 lakh
+
+30%
+
+Under the new tax regime, salaried employees and pensioners can claim a standard deduction of Rs 50,000. 
+Under the new tax regime, the highest surcharge has been reduced to 25% from 37% for people earning more than Rs 5 crore. This move brings down their tax rate from 42.74% to 39%.
+The new IT regime will be the default tax regime. However, taxpayers can opt out of the new regime before the due date for filing the IT returns for the respective assessment year.
+Leave encashment for non-government employees has been increased to Rs 25 lakh from Rs 3 lakh.
+TDS rate reduced to 20% from 30% on withdrawal of EPF.
+Click here to read all highlights on Budget 2024
+
+Browse By Topics
+
+House Property
+
+Business, Professional & Freelance
+
+Efiling Income Tax Return
+
+Income Tax Refunds
+
+Paying Tax Due
+
+Salary Income
+
+Capital Gains Income
+
+Other income sources
+
+Advance Tax
+
+NRI
+
+HUF
+
+Income Tax Notices
+ 
+What Is Income Tax?
+Income tax is a type of tax that the central government charges on the income earned during a financial year by individuals and businesses. Taxes are sources of revenue for the government. The government utilises this revenue for developing infrastructure, providing healthcare, education, subsidies to the farmer/agriculture sector and other government welfare schemes. 
+
+Taxes are mainly of two types: direct taxes and indirect taxes. Tax levied directly on the income earned is called a direct tax; for example, Income tax is a direct tax. The tax calculation is based on the income slab rates applicable during that financial year.
+
+Direct Taxes are broadly classified as :
+
+Income Tax – This is taxes an individual, a Hindu Undivided Family (HUF), or any taxpayer other than companies pay on the income received. The law prescribes the rate at which such income is taxable.
+Corporate Tax - This is the tax paid on the company's taxable income. Here again, a specific tax rate for corporations has been prescribed by the income tax laws of India.
+Don't fall behind your taxes!
+With ClearTax's 3-step filing, get your taxes done early and enjoy peace of mind.
+File Now 
+Use ITR55 for flat 55% Off
+Who Should Pay Income Tax? – Types Of Taxpayers
+According to the Income Tax Act, everyone in India, whether resident or nonresident, has to file income tax returns. Currently, tax is payable if the income exceeds Rs 3 lakh in a financial year. The Income Tax Act has classified taxpayers into various categories. Different tax rules apply to different types of taxpayers. 
+
+   Below are the categories of taxpayers: 
+
+Individuals
+Hindu Undivided Family (HUF)
+Firms
+Companies
+Association of Persons(AOP)
+Body of Individuals (BOI)
+Local Authority
+Artificial Judicial Person
+Further, Individuals and HUFs are classified as residents and nonresidents. Resident individuals are liable to pay tax on their global income in India, i.e. income earned in India and abroad. Meanwhile, those who qualify as nonresidents must only pay taxes on income earned or accrued in India. The residential status has to be determined separately for tax purposes for every financial year based on the individual tenure of stay in India. Resident Individuals are further classified into the mentioned categories for tax purposes:
+
+Individuals less than 60 years of age
+Individuals aged more than 60 but less than 80 years
+Types Of Income – What Are The 5 Heads Of Income?
+Everyone who earns or gets an income in India is subject to income tax (Yes, be it a resident or a non-resident of India). For simpler classification, the Income tax department breaks down income into five main heads:
+
+Head of Income
+
+Nature of Income covered
+
+Income from Other Sources
+
+Income from savings bank account interest, fixed deposits, and winning in lotteries is taxable under this head of income. 
+
+Income from House Property
+
+Income earned from renting a house property is taxable under this head of income.
+
+Income from Capital Gains
+
+Surplus Income from the sale of a capital asset such as mutual funds, shares, house property, etc, is taxable under this head of Income.
+
+Income from Business and Profession
+
+Profits earned by self-employed individuals, businesses, freelancers or contractors and income earned by professionals like life insurance agents, chartered accountants, doctors and lawyers who have their own practice, and tuition teachers are taxable under this head.
+
+Income from Salary
+
+Income earned from salary and pension is taxable under this head of income.
+
+Taxpayers and Tax Slabs
+Each of these taxpayers is taxed differently under the Indian income tax laws. While firms and Indian companies have a fixed rate of tax calculated on taxable income, the individual, HUF, AOP and BOI taxpayers are taxed based on the income slab they fall under. People's income grouped into blocks are called tax brackets or tax slabs. And each tax slab has a different tax rate. The rate at which the tax is charged increases as the taxable income increases. 
+
+What is the Existing/Old Income Tax Regime?
+The old tax regime provides three slab rates for income tax levy, which are 5%, 20%, and 30% for different income brackets. Individuals can continue with the old taxation regime, and they can claim the following deductions: 
+
+Deductions of allowances like Leave Travel Concession (LTC), House Rent Allowance (HRA), and specific other allowances.
+Deductions for tax-saving investments as per Section 80C (LIC, PPF, NPS, etc) to 80U can be claimed.
+Standard deduction of Rs 50,000.
+Deduction for interest paid on home loan.
+Tax slab rates applicable for Individual taxpayers below 60 years for the Old tax regime are as below: 
+
+Income Range
+
+Tax rate
+
+Tax to be paid
+
+Up to Rs 2,50,000
+
+0
+
+No tax
+
+Rs 2.5 lakhs - Rs 5 lakhs
+
+5%
+
+5% of your taxable income
+
+Rs 5 lakhs - Rs 10 lakhs
+
+20%
+
+Rs 12,500+20% on income above Rs 5 lakh
+
+Above 10 lakhs
+
+30%
+
+Rs 1,12,500+30% on income above Rs 10 lakh
+
+There are two other tax slabs for two other age groups: those 60 and older and those above 80. 
+
+A word of note: People often misunderstand that if they earn, let's say, Rs12 lakh, they will be paying a 30% tax on Rs.12 lakh, i.e. Rs 3,60,000. This is incorrect. A person earning Rs 12 lakh in the progressive tax system will pay Rs 1,12,500 + Rs 60,000 = Rs 1,72,500. 
+
+Income Tax Slabs Under New Tax Regime
+In the 2020 budget, a new tax regime was introduced with lower tax rates and limited deductions/exemptions for Individuals and HUFs. Hence, many taxpayers did not opt for the new tax regime. However, to encourage taxpayers to adopt the new tax regime in Budget 2023, the income tax slabs under the new tax regime for FY 2023-24 (AY 2024-25) are revised as follows:
+
+New tax regime FY 2023-24   
+(After budget)
+
+New tax regime FY 2022-23   
+(Before budget)
+
+Income up to Rs 3 lakh
+
+Nil
+
+Up to Rs 2.5 lakh
+
+Nil
+
+Rs 3 lakh to Rs 6 lakh
+
+5%
+
+Rs 2.5 lakh to Rs 5 lakh
+
+5%
+
+Rs 6 lakh to Rs 9 lakh
+
+10%
+
+Rs 5 lakh to Rs 7.5 lakh
+
+10%
+
+Rs 9 lakh to Rs 12 lakh
+
+15%
+
+Rs 7.5 lakh to Rs 10 lakh
+
+15%
+
+Rs 12 lakh to Rs 15 lakh
+
+20%
+
+Rs 10 lakh to Rs 12.5 lakh
+
+20%
+
+Income above Rs 15 lakh
+
+30%
+
+Rs 12.5 lakh to Rs 15 lakh
+
+25%
+
+ 
+
+ 
+
+Income above Rs 15 lakh
+
+30%
+
+Most of the deductions and exemptions are not allowed if the taxpayers opt for the New Tax regime. However, the exemptions and deductions available under the new regime are:
+
+Transport allowances in case of a specially-abled person.
+Conveyance allowance received to meet the conveyance expenditure incurred as part of the employment.
+Any compensation received to meet the cost of travel on tour or transfer.
+Daily allowance received to meet the ordinary regular charges or expenditures you incur on account of absence from his regular place of duty. 
+Exceptions To The Income Tax Slab
+One must remember that not all income can be taxed on a slab basis. Capital gains income is an exception to this rule. Capital gains are taxed depending on your asset and how long you’ve owned it. The holding period would determine if assets are long-term or short-term. The holding period to determine the nature of assets differs for different assets. A glance at the holding period, the nature of the assets and the tax rate for each are given below.
+
+Financial Year
+The financial year is a one-year period that the taxpayers use for accounting and financial reporting purposes. It is the year in which the income is earned. According to the Income Tax Act, such a period begins from 1st April of the calendar year to 31st March of the next calendar year. It is abbreviated as “FY”. For example, the financial year starting from 1st April 2023 and ending on 31st March 2024 can be written as FY 2023-24.
+
+In simple words, a financial year is a year in which the income of a person is earned.  
+
+Assessment Year
+The one year from 1st April to 31st March starting immediately after the financial year is termed an assessment year. This period is the assessment year because all the taxpayers have to evaluate their income earned in the financial year and pay taxes this year. For example, for incomes earned during the FY 2023-24, the assessment year will be AY 2024-25.
+
+In simple words, the income earned in the financial year will be assessed to tax in the assessment year. 
+
+Assessee
+The assessee is a person or a group who assesses his/her income and pays tax as per the Income Tax Act. The assessee can be an individual, a partnership firm, a company, an Association of Persons (AOP), a Trust, etc.
+
+What is PAN?
+PAN is an abbreviation for the Permanent Account Number. It is a unique 10-digit alphanumeric digit issued by the Income Tax Department to Indian taxpayers. All the tax-related transactions and information of a person are recorded against their unique permanent account number. When the person has to pay advance tax or self-assessment tax, they must mention the PAN number. 
+
+Also, an individual submits his PAN to certain entities like banks, mutual fund companies, etc. The financial information from such entities goes to the income tax department via PAN. This allows the taxman to link all tax-related activities with the department. Hence, just by putting in a permanent account number, the taxman can identify all your financial transactions.      
+
+What is TAN?
+TAN is an abbreviation for Tax Deduction and Collection Account Number. It is a unique 10-digit alphanumeric digit allotted by the Income Tax Department of India. All persons responsible for deduction (TDS) or collection of tax (TCS) are required to obtain TAN. It is compulsory to quote the TAN in TDS/TCS return, any TDS/TCS payment challan, and TDS/TCS certificates.   
+
+Residents and Non-Residents
+Levy of income tax in India is dependent on the residential status of a taxpayer. Individuals who qualify as a resident in India must pay tax on their global income in India, i.e. income earned in India and abroad. Whereas, those who qualify as Non-residents need to pay taxes only on their Indian income. The residential status has to be determined separately for every financial year for which income and taxes are computed.
+
+Income Tax Payment
+Tax Deducted at Source (TDS)
+For specified payments, tax is deducted at source when paying the recipient of income. The income recipient can claim credit of the TDS amount by adjusting it with the final tax liability.
+
+Advance Tax
+The taxpayer must pay tax in advance when his estimated income tax liability for the year exceeds Rs 10,000. The government has specified due dates for payment of advance tax installments.
+
+Self-Assessment Tax
+It is the balance tax that the taxpayer has to pay on the assessed income. The self-assessment tax is calculated after reducing the advance tax and TDS from the total income tax calculated on the assessed income.
+
+E-Payment of Taxes
+Taxpayers can pay advance tax and self-assessment tax online from the e-filing website. Click here to learn how to pay taxes online through e-filing portal.
+
+Filing Your ITR
+E-filing of income tax return has been made mandatory for all classes of taxpayers, barring a few exceptions:
+
+Taxpayers aged 80 and above need not e-file the return.
+Taxpayers having an income less than Rs 5 lakhs and not claiming a refund need not e-file the return.
+For the rest, E-filing is mandatory. Do note that deadlines for filing returns have also been prescribed. For most individual taxpayers, the due date for filing the return of income is 31 July, immediately following the concerned financial year. If you do not file on time, here are some disadvantages:
+
+You will be denied carry forward of losses (except house property loss) to future years.
+Delay processing of refund claims if any.
+Difficulty on getting home loans.
+Levy of late filing fee upto Rs 5,000 (if the total income is above Rs 5 lakh) and Rs 1,000 (if the total income is below Rs 5 lakh) under Section 234F.
+Levy of interest under 234A if there are taxes due as on 31 July.
+E-filing is a better alternative to filing on the income tax website. Also, it is for more than just e-filing your income tax return. 
+
+Clear helps you claim all the deductions you’re eligible for and enables you to invest. Once you file your return online, you either e-verify the same or take a print of the ITR V and send it to CPC, Bengaluru, for processing your return.    
+
+Read our detailed article on e-verification of return of income.   
+
+Here’s a guide to e-filing your first tax return on Clear.
+
+Income Tax Return
+The taxpayer shall file an income tax return every year via ITR forms prescribed by the income tax department. The government has prescribed seven ITR forms through which the taxpayer can file his income tax return. The taxpayer has to choose the appropriate ITR forms and file his income tax return.
+
+Income Tax Forms List
+The seven ITR forms are:
+
+ITR-1: Individuals (residents) having income from salary, one house property, other sources, agricultural income less than Rs 5,000 and with a total income of up to Rs 50 lakh.
+ITR-2: Individuals/HUFs not having any business or profession under any proprietorship, more than one house property. 
+ITR-3: Individuals/HUFs having income from a proprietary business or profession, income of a person as a partner in a firm.
+ITR-4: Individuals/HUFs having presumptive income from business or profession, one house property.
+ITR-5: Partnership firms or LLPs.
+ITR-6: Companies.
+ITR-7: Trusts.
+Documents Required for ITR Filing
+Form 16, Form 26AS, AIS, TIS, Form 16A, proof of tax saving investments made, bank account details, etc, are some of the crucial information/documents you need to be ready with before filing your return. Further, the documents you will need to file your tax return will largely depend on your source of income. Here is our detailed article on documents you need for filing of your return of income. 
+
+How can I calculate my income tax?
+
+Individuals should calculate income tax depending on the nature of their income. The salaried individual can take the eligible exemptions available for various allowances received. Individuals/HUF can take a deduction under Sections 80C to 80U, deduct it from the gross total income, and calculate the income tax liability. Also, the total income tax liability should be adjusted by the taxes paid, such as advance tax, TDS, etc. 
+
+Also, the taxpayer should apply the effect of rebate under Section 87A and relief under Section 89, Section 90, and Section 91 to arrive at the net amount of income tax payable.
+
+Any income that you receive should form part of your income tax return. Of course, the law provides exemptions for certain incomes, e.g. LTCG on listed equity shares up to Rs 1 lakh in any financial year, agricultural income, etc.  Therefore, here is a quick guideline you can probably follow to compute taxes due on your income:
+
+List down all your income – be it salary, rental income, capital gains, interest income or profits from your business or profession.
+Remove incomes that are exempt under the law.
+Claim all applicable deductions available under every source of income. E.g., claim a standard deduction of Rs 50,000 from salary income, claim municipal taxes from rental income, claim business-related expenses from your business turnover, etc.
+Claim all applicable exemptions under every head of income, e.g., amount reinvested in another house property can be claimed as exemption from capital gains income, etc.
+Claim applicable deductions from your total income, e.g. the Section 80 deductions like 80C, 80D, 80TTA, 80TTB, etc.
+You will now arrive at your taxable income. Check the tax slab you fall under and accordingly arrive at your income tax payable.
+The government keeps introducing and altering tax slabs, schemes and tax benefits, so it’s a good idea to keep up with the Budget. 
+
+What Is Computation Of Income?
+The process of calculating taxable income after taking into account the income from all the five heads (salary, house property, capital gains, business or profession, and other sources), exemptions, deductions, rebates, set off of losses, etc., is called computation of income. After the computation of income, the taxpayer can compute the income tax liability as per the Income Tax Act.
+
+Rebate u/s 87A
+Rebates under Section 87A allow taxpayers to reduce their income tax liability. If you are a resident individual and the amount of your total income after reducing Chapter VI-A deductions (Section 80C, 80D, 80U, etc) does not exceed Rs 5 lakh in a financial year, you can claim a tax rebate up to Rs 12,500. This means if your total tax payable is less than Rs 12,500, then you will not have to pay any tax.
+
+In Budget 2023, a tax rebate on income of Rs 7 lakhs has been introduced under the new tax regime, and no changes have been made in the 2024 interim budget. Therefore, you do not have to pay tax if your taxable income is up to Rs 7 lakhs under the new tax regime.
+
+E-File Returns
+The taxpayer shall electronically file the income tax return through the e-filing platform of the IT department. To file the income tax return, the taxpayer should register at www.incometax.gov.in. After that, the taxpayer can log in to the website and file his ITR. Also, there is no need to manually send the acknowledgement of the return to the income tax department. The income tax department now allows e-verification of the ITR in different ways, which completes the income tax return process.   
+
+What is ITR–V?
+Form ITR-V is an income tax return verification form generated after the taxpayer files income tax return and submits it to the income tax department. The ITR-V should be e-verified or must be sent to CPC Bangalore at “Income Tax Department – CPC, Post Box No – 1, Electronic City Post Office, Bangalore – 560100, Karnataka” for verification. The ITR processing takes place only if its verification is completed.
+
+Did You E-file Your Tax Return For This Year?
+You can file your Income Tax Return on ClearTax. Even if you don’t know anything about taxes, we will take you step-by-step and help you e-file. Check ClearTax Income Tax E Filing. 
+
+Income Tax Saving Instruments
+A taxpayer can save tax by tax planning. A taxpayer can do tax planning by investing in tax-saving instruments. It helps in reducing the income tax liability. Section 80C to 80U of the Income Tax Act allows a deduction for certain expenditures and investments from the total computed income if taxes paid under the old tax regime. Some of the popular Section 80C investments are: 
+
+Popular Section 80C Investments
+
+Particulars
+
+ELSS
+
+PPF
+
+NSC
+
+5-Year Tax Saving FD
+
+SCSS
+
+Section 80C Benefit
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Type of Investment
+
+Equity
+
+Fixed Income
+
+Fixed Income
+
+Fixed Income
+
+Fixed Income
+
+Lock-in Period
+
+3 Years
+
+15 Years
+
+5 Years
+
+5 Years
+
+5 Years
+
+Maximum Investment
+
+No Max Limit
+
+Rs 1.5 lakh
+
+No Max Limit
+
+Rs 1.5 lakh
+
+Rs 15 lakh
+
+*ELSS and NSC have no upper investment limit. However, you get tax benefits under Section 80C only up to Rs 1.5 lakh per financial year.
+
+Health Insurance and Medical Expense Deduction
+Apart from the Section 80C deduction, a taxpayer can also take a tax benefit under Section 80D for health insurance premium and medical expenditure incurred for self, family and parents. 
+
+Person insured
+
+Maximum deduction Below 60 years
+
+Maximum deduction 60 years or older
+
+You, your spouse, your children 
+
+Rs. 25,000
+
+Rs. 50,000
+
+Your parents
+
+Rs. 25,000
+
+Rs. 50,000
+
+Preventative health checkup
+
+Rs. 5,000
+
+Rs. 5,000
+
+Maximum deduction (includes preventive health checkup)
+
+Rs. 50,000
+
+Rs. 1,00,000
+
+Education Loan Deduction
+Under Section 80E, the taxpayer can claim a deduction for the interest paid on a loan taken for higher education. There is no limit to claiming such a deduction in the income tax return.
+
+Home Loan Deduction
+Under Section 24, the taxpayer can claim a deduction for interest paid on a housing loan during the relevant financial year. The deduction amount will depend upon whether the house is self-occupied or let out. The taxpayer can also claim a deduction of the principal amount of the loan under Section 80C up to Rs 1.5 lakh. 
+
+ 
+
+Deduction on
+
+Maximum allowed (for self-occupied house property)
+
+Maximum allowed (for property on rent)
+
+Stamp duty and registration + principal
+
+Rs 1,50,000 within the overall limit of Section 80C
+
+Rs 1,50,000 within the overall limit of Section 80C
+
+Deduction on home loan interest under Section 24
+
+Rs 2,00,000
+
+No cap (but rental income must be shown in the income tax return). Further, the maximum loss from house property is capped at Rs 2 lakhs
+
+Deduction for first-time homeowners under Section 80EE *certain conditions apply
+
+Rs 50,000
+
+–
+
+Deduction for Interest Income
+The taxpayer can also claim a deduction for interest on deposits from banks under Section 80TTA of the Income Tax Act. Individuals can claim up to Rs 10,000 deduction under the said section.
+
+Important Income Tax Dates 2024
+15th March 2024 - Due date for the fourth installment of advance tax for the FY 2023-24. 
+15th June 2024 – Due date for the first installment of advance tax for the FY 2024-25.
+31st July 2024 – Income tax return filing for FY 2023-24 for individuals and entities not liable for tax audit and who have not entered into any international or specified domestic transaction.
+15th September 2024 – Due date for the second installment of advance tax for the FY 2024-25.
+30th September 2024 – Submission of audit report (Section 44AB) for AY 2024-25 for taxpayers liable for audit under the Income Tax Act.
+31st October 2024 – ITR filing for taxpayers requiring audit (not having international or specified domestic transactions).
+31st October 2024 – Submission of the audit report for AY 2024-25 for taxpayers having transfer pricing and specified domestic transactions.
+15th December 2024 – Due date for the third installment of advance tax for the FY 2024-25.
+31st December 2024 – Last date for filing a belated return or revised return for FY 2023-24.
+Income Tax Law
+Income Tax Act
+The Income Tax Act includes all the provisions that govern the country’s taxation. Every year, the Finance Minister presents a budget in February. The Union Budget brings in various amendments to the Income Tax Act. The most recent Union Budget presented by the current Finance Minister included the introduction of a new tax regime.
+
+Apart from the IT Act, the other components of the income tax law are income tax rules, circulars, notifications, and case laws. All of these help in the implementation of income tax law and the collection of taxes.
+
+About Income Tax Department India
+The Income Tax Department is a government agency. The Act empowers the Income Tax Department to collect direct tax on behalf of the Government of India. The Ministry of Finance manages the revenue functions of the Government of India. The finance ministry has given the task of administration of direct taxes, like Income Tax, etc., to the Central Board of Direct Taxes (CBDT). The CBDT is one of the parts of the Department of Revenue in the Ministry of Finance. The CBDT administers direct tax laws through the IT Department. 
+
+Thus, the Income Tax Department is a government agency that administers the Income-tax law under the control and supervision of the CBDT. The Income Tax Department has been given the power to collect direct tax on behalf of the Government of India. 
+
+Budget 2023 – All Income Tax Related Announcements
+Deduction from Capital Gain -  Capital gains on reinvestment in a residential house property under sections 54 and 54F of the Income Tax Act are ceiled to Rs.10 crores.
+Surcharge - The highest surcharge rate was reduced from 37% to 25%.
+Insurance policies - Income from insurance policies having a premium or aggregate premium above Rs 5,00,000 a year is taxable under the head 'Income from other sources'. This new rule will apply to policies issued on or after 1st April 2023. A deduction shall be allowed for a premium paid if it is not claimed earlier under any other provisions of the act. Suppose the Income received on the insured person's death is considered exempt.
+E-gold Receipt - Conversion of gold into E-gold receipts or vice versa is not treated as capital gain. 
+Presumptive taxation - For MSMEs and certain professionals, the limit is raised to Rs 3 crore and Rs 75 lakh to avail presumptive taxation benefits. An increased limit applies provided the total cash receipts are not more than five per cent of the total gross receipts/ turnover.
+Don't fall behind your taxes!
+With ClearTax's 3-step filing, get your taxes done early and enjoy peace of mind.
+File Now 
+Use ITR55 for flat 55% Off
+Related Income Tax Articles
+
+Income Tax Department Portal – Login & Registration Guide
+incometaxindiaefiling.gov.in – Income Tax e-Filing Guide
+Income Tax E Filing
+Income Tax Slabs & Rates
+Check your Income Tax Refund Status Online
+What is Form 26AS?
+What is Form 16?
+Frequently Asked Questions
+When it is mandatory to file return of income?
+
+The companies and firms are mandatorily required to file an income tax return (ITR). However, individuals, HUF, AOP, BOI should file ITR if the income exceeds the basic exemption limit of Rs 2.5 lakh. This limit is different for senior citizens (Rs 3 lakhs) and super senior citizens (Rs 5 lakh).
+
+Can i file return of income even if my income is below taxable limits?
+
+Yes, you can file return of income voluntarily even if your income is less than basic exemption limit
+
+What documents are to be enclosed along the return of income?
+
+There is no need to enclose any documents with the return of income. However, one should retain the documents to produce before any competent authority as and when required in future.
+
+Should I disclose all my income in the return even if it is exempt?
+
+Yes. Income from every source including exempt income must be disclosed. The same can be shown under the Schedule EI.
+Should I e-verify to get the IT refund?
+
+e-Verification of the income tax return filed electronically is mandatory to complete the process of ITR filing. One should e-verify income tax returns within the stipulated time. Non-verified ITR will be treated as invalid. You can e-verify ITR by Aadhaar OTP, bank ATM, Electronic Verification Code (EVC), and net-banking.
+
+Can I take Section 87A rebate from tax on long-term and short-term capital gains if there is no other income?
+
+You can take rebate under Section 87A from tax on long-term and short-term capital gains. However, if there is long-term capital gain from sale of equity shares or equity oriented funds (Section 112A), you cannot adjust rebate under Section 87A from tax on such LTCG.
+
+Can I file a return after completion of the assessment year?
+
+The Budget 2022 proposed to introduce an ‘Updated’ return that can be filed within 24 months of the end of the relevant AY, on the payment of additional tax. Even if you have not filed original return before the due date specified in the Income Tax Act, you can file the ‘updated’ return.
+
+What are the maximum exemption limit and slab rates applicable for Assessment Year 2024-25?
+
+ 
+
+New Income Tax Slab
+
+Slab Rates (For Resident and non-resident individuals, senior citizens and super senior citizens)
+
+Up to Rs 3,00,000	Nil 
+Rs 3,00,001 - Rs 6,00,000	5% (tax  rebate u/s 87A)
+Rs 6,00,001 - Rs 9,00,000	10% (tax rebate u/s 87A up to 7 lakh)
+Rs 9,00,001 - Rs 12,00,000	15%
+Rs 12,00,001 - Rs 15,00,000	20%
+More Than Rs 15,00,000	30%
+Is standard deduction of Rs 50,000 allowed under the new tax regime?
+
+Yes, standard deduction is allowed under the new tax regime.
+
+What are the income tax changes in interim budget 2024?
+
+For the AY 2024-25, there has been no changes in the income tax.
+
+What is the basic exemption limit for FY 2023 24?
+
+The basic exemption limit under the old tax regime for individuals below the age of 60 years is 2.5 lakhs, and 3 lakhs for people aged between 60 to 80 years and 5 lakhs for the people over the age of 80 years. Under the new tax regime the basic exemption limit is 3 lakh for all the individuals.
+
+What are the deductions allowed under the new tax regime?
+
+As per the new tax regime, majority of the deductions are not allowed. However, standard deduction of up to 50,000 is allowed, family pension, and deduction for employers contribution to NPS account is allowed.
+
+Which are the ITR Forms?
+
+ITR 1, 2, 3,4, 5, 6, 7 are all the ITR Forms available.
+
+Is NPS scheme taxable under the new tax regime?
+
+Tax benefit is available for the employer's share to the NPS Contribution. However, employees share to the NPS Contribution.
+
+
+Acquiring a home loan can provide opportunities to save on taxes, in accordance with the regulations of the Income-tax Act, 1961. The latest financial budget included provisions that further enhanced these benefits.
+
+During the budget speech, the Union Finance Minister, Nirmala Sitharaman, proposed an extension on the deadline for additional deductions on interest payments for home loans, following the previous extension until 31 March 2022. This extension applies to all home loans that have been sanctioned before 31 March 2022.
+
+While obtaining a housing loan can be costly, it is also possible to benefit from several tax deductions that can save money each year. It is important to understand how to maximize these benefits.
+
+Home Loan Tax Benefit Summary:
+Deductions	Section	Maximum Deduction (INR)	Conditions
+Principal	80C	1.5 Lakh	House property should not be sold within 5 years of possession.
+Interest	24b	2 Lakh	The loan must be taken for the purchase/construction of a house, and the construction must be completed within 5 years from the end of the financial year in which the loan was taken.
+Interest	80EE	Rs.50,000	The amount of loan taken should be Rs 35 lakh or less, and the property’s value does not exceed Rs 50 lakh. The home loan should be taken between 1st April 2016 to 31st March 2017.
+Stamp Duty	80C	1.5 Lakh	It can be claimed only in the year these expenses are incurred.
+Interest	80EEA	1.5 Lakh	The stamp value of the property should be Rs.45 lakh or less. The taxpayer is not eligible to claim a deduction under Section 80EE. The home loan should be taken between 1 April 2019 to 31 March 2022.
+No matter how complex your portfolio ?
+Simplify your tax filing with Cleartax’s live assisted, intelligent, 3-step tax-filing ?
+File Now  
+Use ITR55 for flat 55% Off
+Deduction for Interest Paid on Housing Loan Under Section 24
+A home loan must be taken for the purchase or construction of a house to claim a tax deduction. If it is taken for the construction of a house, then it must be completed within five years from the end of the financial year in which the loan was taken.
+
+The interest paid on the home loan EMI for the year can be claimed as a deduction from your total income up to a maximum of Rs 2 lakh under Section 24. 
+
+From the assessment year 2018-19 onwards, the maximum deduction for interest paid on self-occupied house property is Rs 2 lakh.
+
+For let out property, there is no upper limit for claiming tax exemption on interest, which means that you can claim deduction on the entire interest paid on your home loan. 
+
+In case the construction exceeds the stipulated time, i.e. 5 years, you can claim deductions on interest of home loan only up to Rs 30,000 for the financial year.
+
+However, the overall loss can be claimed under the head ‘Income from House Property’ against any other head of income up to to Rs 2 lakh only. This deduction can be claimed from the year in which the construction of the house is completed.
+
+Deduction on Interest Paid Towards Home Loan During the Pre-construction Period
+Say you bought an under-construction property and have not moved in yet but you are paying the EMIs. In this case, your eligibility to claim interest on the home loan as a deduction begins only upon completion of construction or immediately if you buy a fully constructed property. 
+
+So, does this mean you would not enjoy any tax benefits on the interest paid during the period falling between the borrowing of loan and completion of construction? No.
+
+Let’s understand why. 
+
+The Income Tax Act allows to claim a deduction of such interest also, called the pre-construction interest. A deduction in five equal instalments starting from the year the property is acquired or construction is completed is allowed, over and above the deduction you are otherwise eligible to claim from your house property income. However, the maximum eligibility remains capped at Rs 2 lakh.
+
+For example, you have availed a home loan for construction and pay interest of Rs 10,000 a month. Construction of the house was completed in 2019 after two years. Hence, you can start claiming the pre-construction interest of Rs 2.4 lakh (approx) paid by you only after the construction gets completed in five equal instalments starting from 2019. Maximum interest deduction under Section 24(b) is capped to Rs 2 lakh (including current year interest + pre-construction interest). 
+
+However, if your home loan is eligible for deduction under Section 80EEA, you can claim an additional deduction of Rs 1.5 lakh. We have discussed Section 80EEA later in this article.
+
+Deduction on Principal Repayment Under Section 80C
+The principal paid on the home loan EMI for the year is allowed as a deduction under Section 80C. The maximum amount that can be claimed is up to Rs 1.5 lakh.
+
+But to claim this deduction, the house property should not be sold within five years of possession. Otherwise, the deduction claimed earlier will be added back to your income in the year of sale.
+
+Deduction for Stamp Duty and Registration Charges Under Section 80C
+Besides claiming the deduction for principal repayment, a deduction for stamp duty and registration charges can also be claimed under Section 80C but within the overall limit of Rs 1.5 lakh. 
+
+However, it can be claimed only in the year these expenses are incurred.
+
+Additional Deduction Under Section 80EE
+Additional deduction under Section 80EE is allowed to the home buyers for a maximum of up to Rs 50,000. To claim this deduction, the following conditions should be met:
+
+The amount of loan taken should be Rs 35 lakh or less, and the property’s value does not exceed Rs 50 lakh.
+The loan must have been sanctioned between 1st April 2016 to 31st March 2017.
+And on the date of loan sanction, the individual does not own any other house, i.e. first-time house owner.
+Section 80EE was reintroduced but is valid for loans sanctioned till 31st March 2017 only.
+
+Additional Deduction Under Section 80EEA
+To promote the housing sector, Budget 2019 has introduced an additional deduction under Section 80EEA for homebuyers for a maximum of up to Rs 1.5 lakh. 
+
+To claim this deduction, below mentioned conditions should be met:
+
+The stamp value of the property does not exceed Rs 45 lakh.
+The loan must have been sanctioned between 1 April 2019 to 31 March 2022 (extended from 31 March 2021)
+On the date of loan sanction, the individual does not own any other house, i.e. first time home buyer.
+The individual should not be eligible to claim deduction under Section 80EE if claiming deduction under this section.
+Deduction for a Joint Home Loan
+If the loan is taken jointly, each loan holder can claim a deduction for home loan interest up to Rs 2 lakh each and principal repayment under Section 80C up to Rs 1.5 lakh each in their tax returns.
+
+To claim this deduction, they should also be co-owners of the property taken on loan. So, a loan taken jointly with your family can help you claim a larger tax benefit.
+
+Impact of New Tax Regime on Home Loan benefits
+Home Loan benefits under the old tax regime remains the same as one can avail deductions without any restrictions, however the under new tax regime benefits are curtailed, let’s know what they are 
+
+Deduction under section 80C, 80EE, 80EEA for the payment towards principal component of the home loan, stamp duty, registration charges are not available
+Deduction under section 24b for the payment towards the interest component of the home loan is not available for self-occupied property.
+However, deduction under section 24b is available for let-out property. If net income from let out property results in loss, then such loss will be allowed to set off against profit from another house property but not allowed to set off against other heads of income like salary or other sources.
+No matter how complex your portfolio ?
+Simplify your tax filing with Cleartax’s live assisted, intelligent, 3-step tax-filing ?
+File Now  
+Use ITR55 for flat 55% Off
+Also Know About:
+UIDAI
+ITR Filing
+UAN
+Income Tax Guide
+Mutual Fund Investment
+ITR Filing Due Dates
+Frequently Asked Questions
+Who can claim tax deductions on housing loans?
+
+Only the owners of the property can claim tax deduction on home loans. If the home loan is taken jointly with a spouse, each borrower can claim deduction on home loan interest in the ratio of their ownership.
+
+How much tax benefit do I get on home loan?
+
+The  tax benefit  for a home loan as per different sections in Income Tax Acts is listed below
+
+Up to Rs 2 lakh under Section 24(b) for self-occupied home
+Up to Rs 1.5 lakh under Section 80C
+Who is eligible to claim tax deductions on home loans?
+
+The property owner is eligible to claim tax benefits, and if the spouse is a co-borrower, they can also apply for tax deductions. In the case of a joint loan, both parties can claim tax benefits based on their respective share of the loan payments.
+
+Are there any tax benefits on second home loan?
+
+Yes. When the first home is self-occupied and the second home is vacant, it will be considered as self-occupied. In such a case, a tax deduction can be claimed on the interest paid for both houses. However, it cannot exceed Rs 2 lakh. When the first home is self-occupied, and the second one is given on rent, you have to declare the rental income of the second property. From there you can deduct the standard deduction of 30%, interest on the home loan and the municipal taxes paid.
+
+Can my spouse claim income tax deduction when we buy the house jointly?
+
+Yes, your spouse can claim separate deductions in IT returns when your spouse is employed and has a separate source of income. Both of you can claim deduction under Section 80C up to Rs 1.5 lakh from your total income towards the principal component of home loans and deductions up to Rs 2 lakh on the home loan interest.
+
+How to claim tax benefits on home loan?
+
+Below is the process to claim home loan benefits:
+
+Keep the documents ready, such as ownership documents, loan details, certificate from the bank with the interest and principal details and municipal taxes paid receipts.
+Submit these documents to your employer for adjustment of TDS if you are a salaried employee. If you are self-employed, you don't have to submit the documents to anyone.
+Calculate the income from house property.
+File your ITR to claim deduction on interest on home loan and principal repayment.
+Can I claim tax benefits if the purchase a property with a home loan but the house is under construction?
+
+You cannot claim tax deductions till the construction of the house is completed. Once it is completed, you can claim an aggregate of interest paid for the period prior to the year of taking possession in five equal instalments from the year in which construction is completed.
+
+Is there a limit to the amount of interest that I can claim as a deduction?
+
+Yes, the maximum amount of interest that can be claimed as a deduction is Rs. 2 lakh per annum for a self-occupied property and there is no upper limit for a let-out property.
+
+Can I claim tax benefits on a home loan taken for the renovation of a property?
+
+Yes, tax benefits on a home loan taken for the renovation of a property can be claimed under Section 24 of the Income Tax Act, 1961, up to a maximum limit of Rs. 30,000 per annum.

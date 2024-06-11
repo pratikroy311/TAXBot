@@ -1,0 +1,325 @@
+Query: I am a 55-year-old individual covered by my employer’s group health insurance policy, which also extends to my senior citizen parents. Last year, I experienced a significant muscle pull in my leg while participating in sports, leading to the necessity of ongoing physiotherapy. I am curious about the eligibility for tax benefits on the medical expenses related to this situation in the current financial year. Furthermore, my octogenarian father has been diagnosed with Parkinson’s disease. In October 2023, he suffered a fall in the bathroom, resulting in a broken hip that required hip replacement surgery. Even a month after the surgery, his wound necessitated regular dressing. He is currently undergoing consistent physiotherapy, and I have employed an attendant to provide nursing care at home. Given that my father is financially dependent on me, I am interested in knowing if I can claim tax benefits on the medical expenses, including physiotherapy costs and the fees paid to the attendant, associated with my father’s health issues.
+
+Solution: As outlined in Section 80D of the Income Tax Act, 1961, a deduction is allowed for the total medical expenses incurred concerning the taxpayer or their family members, capped at a maximum aggregate of ₹50,000. However, this deduction is restricted to senior citizens who have not contributed to health insurance premiums. Since you do not qualify as a senior citizen, this deduction is not applicable in your situation.
+
+Similarly, under Section 80D of the Income Tax Act, a deduction is applicable for the entire sum spent on medical expenses related to the health of the taxpayer’s parent, not exceeding ₹50,000. This deduction is specifically designed for senior citizens who have not made any payments toward health insurance coverage.
+
+In line with the provisions of Section 80D of the Income Tax Act, expenses associated with hip replacement may be eligible for a deduction as medical expenses, provided they are not covered by the group insurance offered by your employer.
+
+Moreover, costs associated with physiotherapy and attendant care can also be asserted as medical expenses. Nevertheless, it’s crucial to recognize that the definition of medical expenses is open to interpretation by the tax officer, as the law does not explicitly delineate these expenses, potentially leading to legal disputes.
+
+Irrespective of the circumstances, it is vital to bear in mind that the total deductions should not surpass ₹50,000.
+
+Query: A person is seeking an appropriate answer to a question regarding availing income tax benefits. The questioner has availed a housing loan of ₹5 lakh from their Employee’s Co-operative Credit Society. Additionally, they have obtained another home loan of ₹15 lakh from a bank for the same property. The query raised pertains to whether they can avail of tax benefits on both of these home loans.
+
+Solution: The ability to claim credit under Section 80C for the principal repayment of a home loan is subject to certain conditions. The benefits of income tax credit on home loans can be availed if the home loan is obtained from specific entities such as the government (Central or state), banks (including cooperative banks), LIC, National Housing Bank, housing finance companies, cooperative societies providing construction financing for house, public companies, public sector companies, universities, and others.
+
+In the case at hand, the individual will be eligible for the Section 80C deduction for repayment done to the bank. However, they will not be able to claim this deduction for repayment made to their employee credit cooperative society.
+
+Regarding the payment of interest, there are no restrictions on the source of borrowed funds. The individual can even demand a deduction for interest paid to friends and relatives if the borrowed money was used for the stated purpose. Therefore, they can claim a deduction for interest paid under Section 24(b) for both loans, up to a limit of ₹2 lakh, in the case of a self-occupied property. If the property is rented out, the individual can claim the full interest amount against rental income. However, any loss incurred under the head of house property can only be offset against other income up to ₹2 lakh in the same year. Any remaining unabsorbed loss can be carried forward for a maximum of eight years to offset against future house property income.
+
+It’s important to note that the benefits of interest and repayment deductions for home loans are applicable only under the old tax regime. If the individual chooses the new tax system, the deduction as stated in Section 80C is not available. Additionally, in the new tax regime, there is no provision for interest deduction on self-occupied house property, and any loss under the income from house property category cannot be set off against other income in the same year or carried forward.
+
+Query: Can failing to submit an income tax return lead to prosecution as provided in section 276CC of the Income Tax Act, 1961 if the total tax remains to be paid after deducting TDS and the advance tax to be paid is less than Rs 10,000?
+
+The questioner seeks to get further details on the recent decision given by the Madras High Court regarding the initiation of prosecution under section 276CC of the IT Act in such cases.
+
+Solution: Response from Dr. Suresh Surana, Founder of RSM India, Addressing the Question:
+
+Section 276CC of the IT Act provides for imprisonment if an individual fails to file their income tax returns. Prosecution under this section can occur if someone doesn’t submit their return of income under Section 139(1) or fails to respond to a notice issued under Section 142(1)(i) (for Enquiry before assessment), Section 148 (for Income escaping assessment), or Section 153A (for Search or Requisition) of the Income Tax Act.
+
+The proviso to Section 276CC allows some relief to honest taxpayers. Specifically, clause (ii)(b) of Section 276CC states that if the tax to be paid, as decided based on regular assessment and reduced by advance tax payments and tax deducted at source, is less than Rs. 10,000, the taxpayer will not be prosecuted for failing to file the return under Section 139(1) of the IT Act.
+
+In the case of Manav Menon vs Deputy Commissioner of Income Tax Crl. O.P. No. 26013 of 2021, the Madras High Court gave a decision on this matter. The taxpayer in this case failed to file their income tax return for the Assessment Year 2013-2014.
+
+Subsequently, the revenue department issued a show cause notice under Section 276CC of the IT Act, asking why proceedings under Section 276CC should not be initiated against the taxpayer for their deliberate failure to submit the return of income within the stipulated time in Section 139(1) of the IT Act. The taxpayer filed their income tax return on 14.01.2019 after receiving the notice.
+
+In light of these facts, the High Court stated that the aforementioned proviso protects genuine taxpayers who either file their returns late but before the end of the assessment year or have paid significant amounts of their unpaid/remaining tax through advance taxes. Consequently, such taxpayers are exempt from the diligence of the prosecution under Section 276CC of the IT Act.
+
+Therefore, the High Court observed that since the taxpayer had paid taxes amounting to Rs. 23,75,066/- under the categories of Advance Tax, TDS, TCS, and Self Assessment Tax, while the total tax and interest payable by them was Rs. 23,74,610/-, the proviso (ii)(b) of Section 276CC shields the taxpayer from prosecution under Section 276CC of the IT Act.
+
+In summary, the applicability of the prosecution provision under Section 276CC should be assessed objectively, taking into account the provisions of the section itself and the relevant legal precedents on the basis of cases.
+
+Query: My mother acquired a plot of land 12 years ago for 8 lakhs. Presently, she intends to sell it for 33 lakhs to purchase a flat. The government’s assigned circle rate for this land stands at 17 lakhs.
+
+To prevent overpayment of stamp duty during registration, we’ll register the sale at the circle rate. Now, how can we handle the remaining amount above the circle rate? Can we manage it through cash or online transactions? Moreover, what are the best methods to minimize tax liabilities in this scenario?
+
+Also, will my mother need to file her Income Tax Return (ITR) due to this transaction?
+
+Solution: I recommend you implement the sale deed on the actual transaction value and offer to file the differential stamp duty amount to the buyer. Your mother shall required to explain the cash source if you accept the difference in cash and want to utilize the same for the official purpose. Even online accepting of money makes you explain the nature of transactions with regard to online money that your mother obtained. As your mother is unable to elaborate on the money source she might be liable to pay the tax at a 60% flat rate including the penalty in the bonus.
+
+Since for more than 24 months, the plot of land has been held by your mother the profits shall be counted under the long-term capital gains, and since your mother has the intention to invest in the sale of the plot of land in order to buy the residential house she could avail the income tax exemption under section 54F with regard to the long term capital gains pertinent to the fulfilment of specified additional conditions.
+
+Within a duration of two years from the plot selling date, learn that the residential property needs to be bought. When she has an intention to proceed with the self-construction or book an under-construction property then the construction is required to be finished within 3 years. When the full money is not been used within the last filing date of ITR then the unused money is required to get deposited in the bank account beneath the capital Gains account scheme for which money could be utilized for purchasing the property within the specified time duration.
+
+If the total income of a person before any deduction and exemption under section 54F surpasses the basic amount of exemption then as per the income tax laws an individual is mandated to file his ITR, even if your mother does not secure any tax liability because of the available exemption under 54F then also she is required to file the ITR.
+
+Query: I want to sell a part of my own land. Is there any way to save on capital gains tax?
+
+Solution: An individual is seeking ways to save on capital gains tax when selling properties. Let us see what experts suggest in this regard. The answer to this question offers valuable insights and strategies to minimize tax liabilities in such transactions.
+
+According to experts, the duration of property ownership plays a crucial role in determining the tax treatment of capital gains. If you have held the property for 24 months or more, any gains from its sale will be classified as long-term capital gains. However, if the property was owned for less than 24 months, the profits will be considered short-term capital gains and taxed at a slab rate accordingly.
+
+For those selling properties held for over 24 months, two options are available to save on long-term capital gains tax. The first option, outlined in Section 54F of the Income Tax Act, allows for an exemption if the proceeds from the sale are used for buying or building a residential house. The individual must invest within two years after or one year before the plot’s sale date. Alternatively, in case you build a house within three years and invest the aggregate consideration, you are liable to claim the exemption.
+
+Individuals who are unable to invest the entire amount for the above-mentioned purpose before the filing due date to deposit the unutilized money in a capital gains deposit account with a scheduled bank. You have the option to utilize the funds that have been deposited for either buying or building the house. This account can be accessed later for buying or constructing the house. To qualify for a full exemption, the entire sale consideration must be invested in the purchase of residential property. Otherwise, the exemption will be proportionate to the total consideration invested.
+
+Another option available under Section 54EC is to invest in capital gains bonds issued by some particular financial institutions such as REC (Rural Electrification Corporation), NHAI (National Highway Authority of India), PFC (Power Finance Corporation), and RFC (Railway Finance Corporation). However, only the indexed long-term capital gains, need to be invested in these bonds not the whole of the sale consideration in the bonds in order to qualify for the exemption under Section 54EC.
+
+The entire sale consideration is not included in this. There is a threshold of up to Rs. 50 lakh on claiming exemption under Section 54EC for a single financial year. The investment must be made within six months from the date of the property sale, even if it extends beyond the income tax return filing deadline. Notably, there is no requirement to deposit unutilized funds in a capital gains deposit account. These bonds currently offer an annual coupon rate of 5.25%, which is taxable.
+
+By following these expert recommendations, property sellers can effectively manage their capital gains tax obligations while maximizing their returns from property transactions.
+
+Query: In a bid to secure joint ownership of a flat in the National Capital Region (NCR), a taxpayer is looking for ways to effectively manage the associated tax burdens. The individual (the husband) plans to contribute 70% of the property’s cost, while the spouse will contribute the remaining 30%. To finance their purchase, they have taken separate home loans. The couple intends to rent out the newly acquired flat, which is subject to taxes on the rental income. It is worth noting that the wife falls within the 10% tax bracket, while he falls under the higher 30% tax slab. Consequently, they are planning to minimize their overall tax burden. As part of their tax planning, he is asking whether his wife can increase her share in the property by paying him for that share. However, they are uncertain whether it is necessary to explicitly mention the percentage of their respective ownership shares in the sale deed.
+
+Solution: According to the Income Tax Act of 1961, the person who pays for an asset is responsible for the taxable income generated from it. In this case, since the taxpayer is contributing 70% of the funds and his wife is contributing 30%, he can declare the rental income in both their names based on their respective shares in the property.
+
+It is important to keep in mind that if the rental income is disproportionate, it may have negative consequences under Section 60. This section states that the income will be combined with the asset owner’s income if the income is transferred without transferring the asset.
+
+Any income earned from renting out the mentioned property will be subject to taxation under the category of “Income from House Property.” A deduction of 30% of the rent received is allowed. The full interest on loans taken for such properties can be exempted from taxes under Section 24. Principal repayments on loans taken to purchase residential houses are eligible for tax deductions within the overall limit of ₹1.5 lakh under Section 80C.
+
+It is possible for the wife to buy shares in the property, with the minimum property valuation determined by prevailing stamp duty rates under Section 50C of the Income Tax Act.
+
+If the plot qualifies as a long-term capital asset at the time of sale (held for more than 24 months), the taxpayer may consider reinvesting the capital gains in purchasing or constructing another residential house to reduce the impact of capital gains tax. This option is subject to the conditions under Section 54F. Alternatively, given that the taxpayer and his wife are considered “relatives” under the Income Tax Act, gifting can also be another alternative.
+
+However, please note that both options will require additional registration and payment of stamp duty fees to establish the revised ownership structure in official documents. Finally, to ensure clear succession planning and avoid any future ambiguity, it is highly recommended to define each individual’s share in the sale deed.
+
+Query: As an NRI residing in Canada, I am faced with a situation where my traditional house property in India is being sold. Now I want to save tax that’s why I am seeking advice. Can you properly guide me?
+
+Solution: Mrinal Mitra, an NRI who is currently a Canadian resident, seeks clarification saying that his ancestral home in Kolkata is being sold, from which he anticipates receiving approximately Rs 15 lakh as his share. Mrinal intends to deposit this money into a joint account with his daughter at the State Bank of India in New Delhi. However, his daughter is currently a student in Canada. Mrinal sought guidance on how to manage the funds from the sale of his ancestral property to minimize potential long-term capital gains tax and find the best investment options. He is asking whether he can invest in any State Bank of India plan.
+
+It’s important to clarify that the ancestral property in question is a residential house, let’s assume, is inherited by Mrinal, constituting a long-term asset due to the extended ownership history. To calculate taxable capital gains, the Income-tax Act, 1961 (“ITA”) allows for a deduction of the cost at which the previous owner acquired the property, proportionate to Mrinal’s share. Additionally, he may be eligible for indexation benefits.
+
+To mitigate long-term capital gains tax, Mrinal has two options from which he can benefit and they are outlined in the Income Tax Act (ITA). He can invest the capital gains in a residential house property (“RHP”) in India within specific regulations provided by Section 54 of the ITA or he can make an investment in particular bonds in India for the long-term under Section 54EC of the ITA. He can purchase a new RHP within one year before the property’s transfer, within two years after the transfer, or construct a new RHP within three years after the transfer, as per Section 54.
+
+If Mrinal is unable to utilize the capital gains for the purchase or construction of a new asset before filing his income tax return, he can still claim the exemption by depositing the sale proceeds, on account of RHP, under the Capital Gain Account Scheme, 1988 (“Scheme”). This deposited amount is considered the cost of the new asset, making it eligible for exemption under Section 54 of the ITA. To do this, he can open a Capital Gain bank account with a bank notified by the government, generally, one of the scheduled banks like the State Bank of India.
+
+Furthermore, Section 54EC of the ITA allows him to save on tax by investing the capital gains amount in long-term bonds issued by entities like the National Highways Authority of India (“NHAI”) and RECL within six months from the property’s transfer. Regarding the joint account with his daughter, it’s important to note that since his daughter has no ownership share in the property sold, any tax implications, if applicable, would only concern Mrinal, in this case, and his daughter will not be subject to taxation as she was not the property owner.
+
+Query: A student seeks clarification on Form 15G and ITR filing asking the question, that he does not have any other sources of income except for interest earned from FD (bank fixed deposit). The student disclosed that the funds were provided by their father and was confused if submitting Form 15G would allow them to avoid Tax Deducted at Source (TDS) deductions. Additionally, he is not sure if filing an income tax return would still be necessary if he submits Form 15G.
+
+Solution: In the case of minors, it is mandatory to combine all passive income with the income of a parent who earns a higher income. Consequently, minors are not permitted to submit Form 15G, as the interest income they earn will be taxed in the parent’s hands. On the other hand, in the case of majors, the interest income will be subject to taxation in their own hands. However, it is important to consider any gift transactions made by their father at the time of the gift, there will be no tax implication either for the student (in this case) or for the father. If the interest income of the questioner, for the year falls below the taxable limit of 2.50 lakhs and there is no tax liability, then the individual can submit Form No. 15G to the bank. This allows the bank to pay interest without deducting tax at source.
+
+To ensure successful submission of Form No. 15G, it is crucial to provide accurate PAN (Permanent Account Number) details. Failure to furnish this information will result in the bank deducting tax at a higher rate of 20% instead of the regular TDS (Tax Deducted at Source) rate of 10%. It is important to note that submitting Form 15G does not necessitate the filing of an income tax return (ITR). The requirement to file an ITR is depended on different conditions, independent of the provisions for submitting Form No. 15G.
+
+Query: A person asks the question that his mother is a senior citizen, and has put her money in fixed deposits in multiple banks. Even after she has already submitted a 15G form to avoid tax deduction at the source, the bank has deducted tax at a 20% rate on the grounds of not having a PAN. The bank advised that she needed to file an ITR to claim the refund. How can we proceed to seek a refund? Can she file her ITR if she does not have a PAN card?
+
+Solution: Here is the suitable response for such a situation as per the regulations:
+
+Under Section 206AA, the bank can deduct tax at a rate of 20% on the interest, if your mother doesn’t have a permanent account number (PAN), even if she submitted a 15G form. In this case, as you have said that your mother is a senior citizen then she should have submitted a 15H form, not form 15G. If the aggregate tax on the income of a senior citizen who is a resident is nil, then only the form No. 15 is required to be submitted.
+
+To claim a refund for the tax already deducted by the bank, it’s essential to file her income tax return (ITR). However, she cannot file her ITR if she does not have a PAN. Therefore, on her behalf, you need to apply for a PAN card first.
+
+If she has an Aadhaar Number, it can be used in place of a PAN. Provide her Aadhaar number to the bank and request them to update their TDS return submitted by them to update her name with her PAN/Aadhaar information. Without making this correction, the bank will not provide your mother credit for the deducted tax.
+
+Additionally, even if she submits a 15H form, she still needs to furnish her PAN/Aadhaar, or else the bank will deduct tax at a 20% rate again on the entire interest. It’s important to keep in mind that filing an income tax return is not mandatory merely because you have a PAN, it depends if you meet the conditions that require you to file an ITR.
+
+Query: My 1-bhk house will be leased out and I will move into a 2-bhk apartment at a higher rental price. How will this affect taxes?
+
+Solution: Income generated from leasing out residential property and the deductions on rent paid are determined independently as per the Indian income-tax laws.
+
+Income generated from renting out a residential property is subject to taxation under the heading ‘income from house property.’ Provided deductions include municipal taxes, a standard deduction of 30%, and interest on borrowed funds. The residential income is taxed based on the applicable tax slab rates, along with any surcharges and cess that apply. On the basis of which tax regime individuals are categorized, they have specific instructions to deal with any potential losses from rental property.
+
+In the previous tax framework, potential exemptions or deductions could be applicable based on specific conditions. Such as-
+
+If you’re a salaried employee receiving a house rent allowance (HRA) from your employer, you might be eligible for an exemption under Section 10(13A) of the Income Tax Act. This exemption is calculated considering certain factors: the actual HRA received, rent paid, less 10% of basic salary and dearness allowance, or 50% of basic salary and dearness allowance, (40% in case the rented property is not in Mumbai, Kolkata, Delhi, or Chennai.
+If you are not provided with the House Rent Allowance (HRA) receipt, Section 80GG of the Income Tax Act allows you to request for a deduction. You may be eligible for the deduction of at least of the following: the rent paid less than 10% of your total income, Rs. 5000 per month or 25% of your total income.
+Your total income shall be the taxable income before any deduction is applied under this section.
+
+To qualify for this deduction, you are required to meet the following essential conditions: the rented accommodation must be owned by you and used as your residence, you or your spouse or minor child should not own any accommodation at the location where you normally reside, work, conduct business, or practice your profession, you should not own any other accommodation that is considered self-occupied or deemed let out for computing income from house property, and a tax declaration in Form 10BA must be filed by you according to the stated procedure to claim the deduction.
+
+Query: A taxpayer asked the query about making an error in filing the income tax return (ITR) on the last day of the due date, which was July 31. The taxpayer wants to know that is there any potential penalties and the deadline for doing so.
+
+Solution: Many taxpayers frequently make errors while filing their ITRs, including disclosing incorrect incomes, deductions, tax liabilities, or even selecting the wrong ITR form sometimes.
+
+Such errors may result in receiving an inquiry from the tax department or make the ITR inappropriate. To rectify these mistakes and ensure accurate reporting, taxpayers are allowed to file a revised ITR.
+
+The revised ITR for the fiscal year 2022-23 can be filed without incurring any penalty until December 31, given the taxes due after the revision have been paid. However, it is suggested the taxpayers must file the revised ITR as soon as possible, preferably before receiving an inquiry notice from the income tax department for the original ITR.
+
+Query: Another taxpayer stated that his ITR has already been processed, and he has received a refund as claimed in the original return. He is asking, what would happen in case of filing a revision of the IT return and the refund amount is not what was initially warranted.
+
+Solution: The reason for filing a revised ITR is to correct any inaccuracies found in the original submission. It is recommended to file a revised return as soon as correct information becomes available and discrepancies in the initial return are detected. Even in case the refund amount received matches the initial claim, it is crucial to provide accurate income details to the tax authorities, as they may still issue notices after the refund has been credited.
+
+In case after revising the income tax return, the refund amount is reduced, the tax department may issue a demand for the additional funds. Contrarily, if the revised return requests a higher refund amount than previously received, the excess amount will be refunded accordingly.
+
+Query: How to calculate income tax for non-residents?
+
+Solution: Taxability in India depends on various factors, including residency status, the source of income, and the location of income reception. An individual’s physical presence in India for a fiscal year (FY) determines their residence status. It includes both working and non-working days as well as the subsequent 10 fiscal years: If a person is an Indian citizen, even if he does not become a resident based on physical presence in India, he may still do so in the case of income sourced from India that exceeds Rs. 15 lakh. However, he will not become a resident in general based on the absence of tax liability under any other criteria of a similar structure. Residential status is dynamic and requires new settlements for each FY.
+
+A person who meets the requirements to be considered a resident and ordinarily resident (ROR) must record all of their overseas assets on their income tax return(ITR) in India and pay taxes on their worldwide income there. Additionally, the kind of income as well as the amount produced from such foreign assets throughout the relevant FY have been offered for taxation in the India income tax return and must be disclosed concerning each foreign asset.
+
+Income received or deemed to be received in India, income accruing or arising outside of India if the income is derived from a business managed in or a profession settled in India (for RNOR), and income received or deemed to be received in India are all taxable to an individual who qualifies as a non-resident (NR) or resident but not ordinarily resident (RNOR).
+Since you have not been in India for the past four years, providing your income from India is less than 1,500,000, you may be eligible to be categorised under a non-resident of India. Salary earned from outside of India through employment and received outside of India will not be taxable in India if you are a non-resident. Salary income earned through employment performed outside of India and income received directly in India is liable to tax in the country.
+
+In India, your personal income is liable to tax, and in this certain income sources are included like interest income from banks, dividend income from shares, mutual funds, etc., and rental income from house property can also be considered. There are four instalments (15% by 15 June, 45% by 15 September, 75% by 15 December, and 100% by 15 March) through which you can deposit income tax by way of advance tax or before filing a tax return by way of self-assessment tax with interest; the deadline for that is 31 July.
+
+Query: How Can I Switch to the New Tax Regime if I File a Belated Income Tax Return?
+
+Solution: The deadline for filing ITR for FY 2022-23 (AY 2023-24) was July 31, 2023. Taxpayers who have not filed their returns yet can file their returns with a late fee.
+
+Belated ITR filing is permitted under Section 139(4) of the Income Tax Act, 1961. However, you have to pay a fine of Rs. 5,000 and if the income is below 5 lakh then the fine will be Rs. 1,000. And for belated ITR filing with a late fee, the date provided is December 31, 2023. There is another charge which is a panel interest charge on the total tax payment so the department is constantly encouraging taxpayers to file their returns as soon as possible.
+
+The taxpayers are allowed to switch between the old and new tax regimes while ITR filing. If you have several deductions to claim under the different sections of the IT Act and also including Section 80C for tax-saving investments, the old tax regime could be a better option in this regard.
+
+Moreover, the New tax regime may offer you some other benefits and you may find yourself in a dilemma when wanting to switch from the old to the new tax regime. The reason for that may be you realized that there are not as many deductions as thought and also want to benefit from lower income tax rates in the New tax regime. If you want to know if is it allowed to switch the tax regime when filing a belated ITR, read the article till the end.
+
+Provisions for Opt-in
+
+Even though the New Tax Regime was introduced in the Union Budget of 2020, for many taxpayers in India, it is not the default tax regime. Taxpayers are required to file Form 10-IE if they want to use New Tax Regime.
+
+However, to come under the New Tax Regime, it can be done within the specified due date for filing your returns which was July 31 for FY 2022-23. For taxpayers who want to audit their accounts mandatorily, October 31 is the last date.
+
+Some taxpayers have the desire to availing lower tax benefits under the New Tax Regime, they have to do this before the deadline. It is not possible to switch tax regimes when filing a belated ITR.
+
+Limitations in Addition
+
+Along with the deadline concerns for switching the tax regime, certain other limitations prevent taxpayers to do the same and they must be aware of this. Taxpayers with a salary and a house income, but not any business or professional earnings, are not allowed to switch between tax regimes. When these taxpayers switch to the New Tax Regime, they are permitted to switch back to the Old Regime only once. If they utilize this opportunity, they lose the ability to switch to the New Tax Regime in the future.
+
+Taxpayers having a professional or business income, however, can switch between the regimes by submitting the appropriate Form 10-IE within the specified timeline. Interestingly, while the law clearly states that taxpayers are required to switch to the New Tax Regime by filing their returns before the deadline which is July 31, there is no explicit provision indicating reverse can be possible. The law remains unclear to ascertain whether taxpayers can switch from the New Regime to the Old Tax Regime in case of belated filings.
+
+Query: Can you change the income tax regime when filing an ITR?
+
+Solution: In response to your query, yes, you can change the tax regime when filing your ITR. The tax regime that salaried employees select in FY 2023–24 must currently be disclosed to their employers. It is crucial as it will permit employers to deduct TDS in accordance with the tax regime that the employee has chosen.
+
+The Finance Act of 2023 recently changed the default tax system to the new tax regime. The founder of RSM, Dr Suresh Surana, noted that while a taxpayer can switch between the old and new tax regimes on an annual basis, individuals who get income from a business or a salaried person have the option to do the same only once.
+
+It is appropriate to keep in mind that, even though salaried people can switch between the old and new tax regimes on an annual basis, they have to give information to their employers at the start of the fiscal year of their choice. Failure to do so will result in a TDS deduction under Section 192 of the IT Act under the new tax regime under Section 115 BAC of the IT Act, which is the default tax regime. However, the ultimate decision about the tax regime can be made when the tax return is provided according to Section 139(1) of the IT Act,” he added.
+
+Salaried employees are required to choose a tax regime in April. If they are unable to do so, the employer will deduct taxes from their pay at the New Tax Regime rates.
+
+Therefore, salaried employees should consider the following aspects when choosing the tax regime:
+
+Concessional Tax Slab Rates
+
+On income above Rs. 10 lacks, there was an Rs. 2.5 lakh exemption under the previous tax system. The highest tax slab rate, at 30%, is the exemption rate. With five tax slab rates ranging from 5% to 30% and an exemption limit of up to Rs. 3,000,000, the new tax regime is more expensive than the three tax slab rates of the old tax regime. The maximum tax rate of 30% is applied on income above Rs. 15 lacks.
+
+Total Income (Rs.)	Tax Rate (Old Regime)	Total Income (Rs.)	Tax Rate (New Regime)
+Upto 2,50,000	Nil	Upto 3,00,000	Nil
+2,50,001 to 5,00,000	5%	3,00,001 to 6,00,000	5%
+5,00,001 to 10,00,000	20%	6,00,001 to 9,00,000	10%
+Above Rs. 15,00,000	30%	9,00,001 to 12,00,000	15%
+12,00,001 to 15,00,000
+20%
+Above Rs. 15,00,000	30%
+Tax Rebate Availability u/s of 87A
+
+According to Dr Surana, under the old tax system, a resident individual with a total income up to Rs. lakh would be given a complete rebate under Section 87A of the IT Act, which would result in a NIL effective tax rate. However, starting on April 1, 2023 (FY 2023–2024), anyone who chooses the New Tax Regime can apply for a complete tax refund under section 87A of the IT Act for total income up to Rs. 7 lacks.
+
+Reduced Highest Tax Surcharge Rates
+
+For total income surpassing Rs 5 crore, the highest tax surcharge rate has been reduced under the new tax system from 37% to 25%, reducing the tax rate from 42.744% to 39%.
+
+Claim Tax Deductions and Exemptions
+
+Dr Surana said that to claim the benefit of tax deductions and exemptions under the old tax regime, there were no restraints. For example, a taxpayer falls under the category of getting the benefits of the deduction if he has investments in tax-saving instruments, pays premiums on life or medical insurance policies, pays for his children’s schooling, makes home loan repayments, etc.
+
+Previously, these benefits included house rent allowance, leave travel allowance, and so on.
+He continued, the New Tax Regime only permits a select number of listed deductions, such as the standard salary deduction of Rs. 50,000 under Section 16(ia), the deduction for family pensions that are less than Rs. 15,000 or 1/3 of the pension, the deduction for the employer’s National Pension Scheme contribution under Section 80CCD(2) of the IT Act, etc.
+
+Query: My daughter is a non-resident Indian with a small rental income. Neither she nor her renter can afford to engage a CA to calculate and return the tax deducted at source (TDS) on this income to the income tax (I-T) department. Can she pay the TDS towards the rent to the department as an advance tax?
+
+Solution: According to the rules of section 195 of the Income Tax Act, the tenant, who is liable for the payment of rental income, must withhold taxes at the established rates and deposit them with the tax authorities on a monthly grounds. The renter must also apply for a Tax Deduction Account Number (TAN) and submit quarterly withholding tax returns for the taxes that were duly withheld and deposited.
+
+The following measures may be considered if neither your daughter nor the renter is in a state to assure adherence to the aforementioned rules:
+
+If your daughter feels that no tax should be deducted from her rental income based on her level of income (including that income), and other considerations, she may contact the tax authorities to get a certificate of “Nil” income tax deduction. If and when received, the tenant—who in this situation serves as the tax deductor—will no longer be compelled to withhold taxes from the rental payments. If not, the renter would have to withhold taxes at the appropriate rate or at any lower rates that the tax authorities have authorized. If the renter doesn’t follow these rules, they might be declared to be in default and subject to interest and penalty clauses.
+If your daughter submits her annual ITR, includes the rental income in the return, pays the required taxes in advance or through self-assessment, and obtains a certificate from a CA in the required format, the tenant might not be regarded as an assessee in default and penalties might not be levied, subject to review by the authorities. However, up to a certain point, interest in non-withholding may still be due.
+Query: I’ve had a proprietorship job in the clothing sector for 4 years, 7 months, and 7 days. After the first week of November, the corporation terminated my position without explanation. There are now less than 10 workers at the company. How can I make a business gratuity claim?
+
+Solution: It should be mentioned that each business or institution with 10 or more employees is subject to the terms of The Payment of Gratuity Act, 1972. (except in the case of factories and establishments in specified sectors where there is no limit for the number of employees). Additionally, once the rules are in effect, they will continue to be in effect even if there are less than 10 employees.
+
+It is unclear from the information you supplied whether your organization must adhere to the terms of the Gratuity Act, of 1972, and this has to be further assessed in light of more facts.
+
+Query: Despite moving back to India in July 2022, I work for a US firm and receive a salary in the US account, even though I have been a US citizen for 17 years. How can I benefit from the DTAA on my salary earned before August? Do I require to file taxes in India on my salary earned before August or only after August?
+
+Solution: There are 3 kinds of residential status in India: Resident and Ordinarily Resident (ROR), Resident but Not Ordinarily Resident (RNOR), and Non-Resident (NR).
+
+Residential status in India would be revealed on the total physical presence in India in the present Financial year (FY) and the foregoing 10 FYs as also the quantum of India-sourced income in the current FY. Residential status requires a new decision in every Fiscal year.
+
+Entitled as ROR, a person would be subjected to be taxed on worldwide income in India and would be needed to report the foreign incomes and assets held outside India in the tax return. A person entitled to an NR or RNOR would not be required to pay the tax in India on his foreign income (until obtained in India).
+
+Since you are a US citizen and moved back to India in the month of July, you might be entitled as RNOR of India for FY 2022-23 if your presence in India is 729 days or less in the period 1 April 2015 to 31 March 2022 or you entitled as NR of India in 9 out of 10 preceding FYs. As an RNOR, you would be levied with a tax on the subsequent incomes in India:
+
+Income obtained or deemed to be acquired in India;
+Income that arises in India;
+Income deemed to arise in India;
+Income arising outside India via business or profession set up in India.
+The salary income for the services directed in India would be acknowledged as deemed to arise in India. Hence the salary made through you during working in India from August would liable to tax in India despite being paid in the US account. The incurred salary as an RNOR in the US till July 2022 would not be liable for tax in India. As the salary obtained in the US the same might be subjected to be taxed in the US. In this situation, you might claim a specific advantage (either exemption or foreign tax credit) under the Double Taxation Avoidance Agreement (DTAA) between India and the US in that country, to prevent double taxation.
+
+Query: I purchased a flat whose cost is Rs 35 lakh in February last year with a bank loan. I paid the principal of Rs 1,33,951 along with the interest of Rs 1,70,049 in FY22. Rs 1.5 lakh would not be deducted by my employer beneath income tax section 80EEA for the first-time purchase of the house/flat. What method will I choose for the deduction seeing the situation?
+
+Solution: Under section 80EEA, some other interest payment deduction of Rs 1.5 lakh (post ending of the limit beneath Section 24(b)) would be furnished for those who are purchasing the home for the first time towards the loans opted regarding the affordable home worth up to Rs 45 lakh. The same deduction could be claimed till you would repaid your home loan. Rs 50,000 as an additional interest payment deduction under section 80EE post to exhausting the limit beneath Section 24(b) is authorized for first-time home buyers towards a property value up to Rs 50 lakh and loan amounts of up to Rs 35 lakh. When the purchaser claims the deductions beneath section 80EE then he could not claim for the deductions beneath Section 80EEA. Any TDS surplus over the final tax liability will get refunded post-return processing.
+
+Query: No tax would be levied on the income of NRI, when I furnished the ITR 2 when my income exceeds Rs 2.5 lakh then I was required to show the salary first complying with the exemptions. While furnishing the returns what method shall I choose for that?
+
+Solution: In various judicial pronouncements, it has been held that non-resident Indians may not be taxed in India for receiving a salary for services rendered outside the country in their Indian NRE accounts NRIs who used to earn interest on these NRE accounts would get free from the tax. The same would be reported that NRIs earning income in the salary form and the interest is more than Rs 2.5 lakh are needed to file the income return in ITR-2 form. Under tax treaties and claim refunds if the TDS would get deducted from the income then NRIs could avail the advantage. For the same, you are required to reconcile the TDS credit along with the advance tax as shown in Form 26AS under income tax.
+
+Query: To claim the advantage of HRA I live in my parent’s house. I furnish Rs 30,000 per month as rent to my father. Am I assumed to deduct TDS?
+
+Solution: Under section 194-IB, with effect from the date June 1, 2017, a person and HUF furnish a monthly rent of more than Rs 50,000 and will deduct a 5% TDS on rent. A TDS would not get deducted from you as the monthly rent furnished would not be more than Rs 50,000.
+
+Query: My husband obtained Rs 14 lakh through his mother as a gift post she sold her house in 2018. We had purchased a flat but unfortunately, we did not mention it in the income tax return for 2018. Since we got a notice beneath section 131 we want to do that. What is the method to do the same?
+
+Solution: A notice beneath section 131 is obtained when the assessing officer has the cause to suspect that, an income would get hidden. Through the view of the income tax, receipt of a gift from a relative would not trigger taxation that the same would be exempted in the hands of the receiver. But the same needs to be shown as exempted income in the schedule EI of the Income-tax return form. Since you do not show the received gift you received the notice. Accumulate all the documents seeks and send as per the due date and co-operative with the tax authorities in the proceedings.
+
+Query: I have a Post Office MIS (Monthly Income Scheme) with my wife. The interest is credited to my savings account. What is the method to calculate the tax on the interest?
+
+Solution: Interest earned on joint accounts would be levied to tax in the hands of both primary and secondary account holders. on the Post Office MIS, no TDS gets deducted, however, the interest will be taxed under the tax slab, to be notified in the schedule OS. Under section 80TTA one shall avail of the deduction of interest incurred on savings accounts held with the post office up to Rs 10,000. For senior citizens, the same limit would be Rs 50,000. These deductions might be availed during the furnishing of the income tax return. Moreover, interest on the post office savings bank account would be privileged to Rs 3500 for the single account holder and Rs 7000 in a joint account beneath section 10(15).
+
+Query: I used to work in Zambia since 2000 and send my salary to my NRE account in India. Would it be taxed in India? If yes then beneath which section do I show during furnishing the return?
+
+Solution: The same is done in several judicial pronouncements that only receipt of salary via NRI in his Indian NRE account for services directed outside India shall not taxable in India. Moreover, the interest earned by NRIs on these NRE accounts is having no tax payable. NRIs earning income in the form of salary and interest is more than Rs 2,50,000 are needed to file the income return in ITR-2 form. But, NRIs could avail the advantages beneath the tax treaties and avail refunds if the TDS is deducted from their income. Towards the same, you are required to reconcile TDS credit and advance tax as shown in Form 26AS. 
+
+Query: I bought a residential house in 1982 for Rs 55,000. I spent Rs 4 lakh in 1991 to renovate and construct the first floor. I sold the house for Rs 70,87,000 on November 27, 2021. What is the method to claim tax relief on long-term capital gains? I have paid Rs 70,870 as transaction tax. I have invested the money in a flat which is under construction.
+
+Solution: To calculate the capital gain on the property sale, since you have bought the property, the buying price will be more than the actual cost or FMV as of April 1, 2001, which is indexed for inflation and any cost of renovation made before April 1, 2001, will be refused.  moreover, if net consideration comes on sale is invested towards the buying of residential house property (one year before or within 2 years from the date of transfer) or for construction of a residential home in 3 years from the transfer date then the specific capital gains gets exempted beneath section 54F.
+
+The same exemption is permitted when a taxpayer does not have more than one residential house property on the transfer date. The LTCG computed would be taxed at 20%, along with the cess of 4%. Moreover, the tax furnished by you is TDS under section 194 IA where it needs a 1% tax to be levied by the purchaser while doing the payment of sale consideration.
+
+Query: As my employer is based in the United States, the salary is directly credited to my India account from the US account. Can you tell me what is the tax rate and under what section of the Income-Tax Act I need to file my return? Is there a tax rate applicable to this amount if I show it as professional fees instead of salary?
+
+Solution: In the US, salary income is taxed at ordinary slab rates applicable to residents under the heading ‘salaries’. Under Section 139, a tax return must be filed. Ordinary slab rates are also applied to income derived from professions. It is possible to reduce gross professional receipts by the number of actual expenditures and capital allowances that are incurred in order to earn professional income, and only the net income (after deductions) may be taxed.
+
+Read Also: Major Components of Updating ITR U/S 139(8A) from FY 2022-23
+
+Query: Can you advise whether long-term capital gains on the sale of an existing flat held for ten years will be fully exempt if the proceeds are used to book a new flat within three years of selling the old flat?
+
+Solution: Capital gains income must be earned within one or two years after the purchase of the new flat. Three years are allowed for self-construction. To prove that the funds were invested under his ownership in a new residential property, the taxpayer must provide a registered deed or any other credible evidence.
+
+Query: A residential property I purchased in 2012 was sold at no capital gain. Currently, I am on a pension. Can I claim this sale as an income tax deduction?
+
+Solution: In order to file an income tax return, it is necessary to disclose all sources of income, regardless of the amount, otherwise the income tax department may raise a question or make adjustments due to mismatches. In the case of a sale of property, you must disclose the sale consideration, acquisition costs, and capital gains.
+
+Query: I filed my income tax return (ITR) in July 2022 but neither has it been processed till now, nor have I received any intimation from the income tax department. What should I do?
+
+Solution: It is assumed that your query refers to the income tax return for the financial year (FY) 2021-22. The tax return filed and duly verified is initially reviewed and processed by the tax authorities under the provisions of section 143(1) of the act for any prima facie adjustments required. Once the electronic processing is completed, an intimation is generated and sent to the taxpayer. As per the provisions, the tax authorities can’t send an intimation under section 143(1) after the expiry of nine months from the end of the FY in which the return is filed. In your case, as the tax return for FY 2021-22 was filed and verified during FY 2022-23, the intimation can be sent by 31 Dec ember 2023.
+
+If a taxpayer does not receive any intimation within such period, the acknowledgement of the return filed may be deemed to be the intimation. In case you wish, you may still raise a grievance query through your online income-tax account to check on the status of processing.
+
+Also, please note that the processing of the return under section 143(1) of the Act may not be final as it is only a preliminary assessment of the tax return by the tax authorities. The tax department may still send a notice under other sections of the act, seeking more information in future.
+
+Query: Why it is Essential to Opt for the Correct ITR Form?
+
+Solution: It relies on the segment you comes in as there is 7 ITR forum for you to opt from furnishing the return. Towards the assessment year 2022-23 (the financial year 2021-22), forms ITR-1 and ITR-2 come under the most related forms towards the concern of the salaried persons. Furnishing the incorrect income tax return form shall give you an outcome in your returns remaining invalid.
+
+Query: I Missed Submitting Investment Proofs to the Employer, Can I Claim Tax Deductions?
+
+Solution: Yes, the last date ruled through the employers to submit the declarations regarding investments to claim the deductions beneath sections 80C, 80D, 80E, etc is Jan or Feb. But despite various reminders received from employers, various people point to skipping furnishing the proofs of the tax saver investments. This leads to the deductions of more amount of the taxes from the salary in the previous last 3 months of the fiscal year. If you do not furnish the proofs then you can insert the information inside your tax return form and avail of the deductions and tax refund.
+
+Query: What are the Most Mutual Flaws Built During the Furnishing of the ITR?
+
+Solution: Even the miniature errors built on the furnishing of the ITR could make your returns zero and empty. These flaws can be as easier as not selecting the correct assessment year. You indeed cross-check your bank account information. Inserting the wrong information can make the chances of getting your tax refund late.
+
+A salaried person paying the taxes could opt for the old tax advantages regime and the amended system during the furnishing of the returns. You shall indeed need to mention the income obtain from the dividend inside your tax return forms for the current year.
+
+Query: What If I Missed Showing Some Income That I Had Earned?
+
+Solution: It is sometimes possible that people use to forget to show some of their specific incomes despite there being no intention. This is the concern that specifically through the salaried persons who depend on their Form 16 which does not consist of the information of the capital gains, fixed or savings deposit interest incomes, for example when the income tax council reveals this missing income you will then receive the notice for that.
+
+Query: Post Filing of the Tax Returns Do I Require the Verification Procedure?
+
+Solution: Yes as furnishing will not be acknowledged as completed unless you validate the returns. It should be performed within 120 days of furnishing your Income tax returns. However various people use to forget to do that even when the electronic procedure takes only some time to furnish that. You can likewise download the ITR-V, or acknowledgement form and transfer it physically to the tax department’s CPC office in Bengaluru.
+
+Query: Do I Choose the E-verification Method or the Physical Mode?
+
+Solution: Choosing the online method is the best option. The physical procedure is a complex process you need to download, print, and sign the hard copy prior to sending it to the Income Tax CPC, Bengaluru, through the post. While on the other side, it takes only some minutes through the process of e-verification. You can practice Aadhaar-OTP or your internet banking account, your pre-validated bank, or your Demat account to produce the electronic verification code (EVC) to perform the means.

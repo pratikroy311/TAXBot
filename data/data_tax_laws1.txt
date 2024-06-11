@@ -1,0 +1,488 @@
+A person ticks off numerous milestones throughout his lifetime. Common ones include graduation, first job, wedding, family, etc. Apart from these, another significant milestone that most of us tend to come across is paying off income tax for the very first time.
+
+As soon as the income tax return filing date steps closer, people somehow get a tad conscious as many deem it to be a little daunting task. And if you are a first-time taxpayer, it may even seem like a nightmare to you.
+
+Thus, for all such taxpayers who look forward to filing the tax for the first time, we have jotted down the basics of income tax in this segment, which shall help you do the groundwork.
+
+From basic income tax knowledge to understanding income tax in India, get yourself oriented with all the significant terminologies to learn income tax basics easily with our informative guide to income tax for beginners.
+
+What are ‘Financial Year’ and ‘Assessment Year’?
+To understand how to file income tax return, it is first necessary to know the primary difference between the financial year and the assessment year:-
+
+Financial Year
+The Financial Year is also called the Previous Year. It is the 12 months cycle that begins in April and ends in March of the next year. Irrespective of your employment start date, the tax year is fixed from April to March.
+
+Understand this with an example,
+
+Assume you joined a company on October 22, 2021. Your first tax year would be April 2021 to March 2022. You will be taxed on your income from October 22, 2021, until March 31, 2022.
+
+Thus, the tax year or financial year is the year for which the tax is paid.
+
+Assessment Year
+The assessment year is the year after the previous year. In simple words, it is the year in which you will file your return in the prior year.
+
+So, considering the example mentioned earlier, your previous year or tax year was 2021-22. Thus, your assessment year will be 2022-23, as you will be filing your income tax return between April 1, 2021, and September 30, 2022 (generally).
+
+Understand Your Salary Component
+It is quite essential to understand your entire salary structure on the basis of which you are supposed to file your income tax return. Your salary slip consists of all the information, such as your basic salary, house rent allowance, special allowance, etc., based on your salary structure and the company’s policy.
+
+It also contains details regarding tax deducted, professional tax, employee provident fund, etc. The difference between these two is what gets credited to your bank account as salary.
+
+Note you can use a salary calculator, too, while assessing your salary.
+
+Income on Which Tax Needs to be Paid
+Along with your salary, as an individual, you will be entitled to some interest income generated from your savings or deposits with banks and other similar institutions.
+
+The sources of income on which you will be paying taxes can be split into the following –
+
+Salary Income – This includes your salary, allowances, leave encashment, and another cash component that you may receive for rendering your services to an organization.
+
+Income from House Property – This includes any income you may generate from renting an owned property.
+
+Income from Capital Gain – Under this head, all the income that arises from transactions in capital assets such as shares/mutual funds are included.
+
+Income from Business or Profession – If you are conducting any business or profession along with your job, then the income from such activity will be your income from business or profession.
+
+Income from Other Sources – This includes interest income in a savings account or interest income from deposits with the bank, gifts, etc.
+Deductions
+A deduction can be considered a tax benefit that can be used to decrease your taxable income. A deduction is an amount that Income Tax Department allows you to diminish your Income, which ultimately reduces your tax liability.
+
+It can be calculated as –
+
+Sum of all income = Gross income
+
+Gross Income – Deductions = Taxable Income
+
+Thus, higher is your deduction; lower is your tax liability. Deductions are allowed under section 80 (Section 80C to 80U) of the Income Tax Act.
+
+Tax Exemptions
+You can call tax exemptions those monetary exclusions that can assist in reducing your taxable income.
+
+Such exemptions help you avail tax reliefs, reduce tax rates or even ensure that tax is applicable on specific parts of your income only.
+
+Understand this with an example,
+
+Suppose you pay rent for your house. Now, you can avail yourself of an exemption on your House Rent Allowance (HRA) which is mainly calculated according to your salary. So, while calculating your taxable income, a particular portion of your HRA gets exempted from the gross income.
+
+80C Is Your Best Friend
+Under section 80C, you can reduce up to an amount of Rs 1,50,000 from your gross income. The commonly used investment vehicles under section 80C are –
+
+Public Provident Fund
+Employee Provident Fund
+Tax saving fixed deposit
+Equity-linked savings scheme
+Insurance premium
+Tax Deducted at Source (TDS)
+Tax Deducted at Source is the tax amount that is deducted and deposited on the taxpayer’s behalf by the employer with the Income Tax Department. TDS is calculated by the employer based on estimated Income tax as suggested by the employee.
+
+The rate at which tax is deducted is dependent on the income tax slab you belong to.
+
+Similarly, interest earned on fixed deposits is also liable for TDS. Typically, the banks deduct 10% of the interest income as TDS as they are not aware of your tax slab. However, the bank will not deduct any tax provided Form No. 15H/15G (as the case may be) is submitted to the bank by the depositor.
+
+However, if you have mentioned your Permanent Account Number (PAN), the bank may deduct 20% of the income as well.
+
+It is a significant element in the income tax filing procedure as it is a measurement technique that the Income Tax Department imposes to secure payment of taxes within the due time frame.
+
+Advance Tax
+Advance Tax is the sum of income tax that is paid in much advance instead of a lump-sum payment at the time of filing the ITR. This is paid mainly by businessmen and professionals.
+
+The due dates for paying these tax instalments are fixed by the Income Tax Department of India. The dates and tax rates are mentioned below-
+
+On or Before 15th June: 15%
+On or Before 15th September: 45%
+On or Before 15th December: 75%
+On or Before 15th March: 100%
+Self-assessment Tax
+Self-assessment tax is the balance tax that is supposed to be paid by the taxpayer on his assessed income after advance tax and TDS have been taken into account before filing the return of income.
+
+Categories of Tax Payers
+Residents and non-residents (below 60 years of age)
+Senior citizens (60 and above years but below 80 years of age)
+Resident super senior citizens (above 80 years of age)
+Calculating Tax Payable
+Once your taxable income is known, you will be able to compute the tax that needs to be paid.
+
+Income Slab
+
+Old Tax Regime
+
+tax Regime 
+
+(New until 31st March 2023)
+
+New Tax Regime 
+
+(From 1st April 2023)
+
+Rs 0 - Rs 2,50,000
+
+-
+
+-
+
+-
+
+Rs 2,50,000  - Rs 3,00,000
+
+5%
+
+5%
+
+-
+
+Rs 3,00,000 - Rs 5,00,000
+
+5%
+
+5%
+
+5%
+
+Rs 5,00,000 - Rs 6,00,000
+
+20%
+
+10%
+
+5%
+
+Rs 6,00,000 - Rs 7,50,000
+
+20%
+
+10%
+
+10%
+
+Rs 7,50,000 - Rs 9,00,000
+
+20%
+
+15%
+
+10%
+
+Rs 9,00,000 - Rs 10,00,000
+
+20%
+
+15%
+
+15%
+
+Rs 10,00,000 - Rs 12,00,000
+
+30%
+
+20%
+
+15%
+
+Rs 12,00,000 - Rs 12,50,000
+
+30%
+
+20%
+
+20%
+
+Rs 12,50,000 - Rs 15,00,000
+
+30%
+
+25%
+
+20%
+
+>Rs 15,00,000
+
+30%
+
+30%
+
+30%
+
+Note, 4% will be levied as Health and Education Cess on income tax amount computed on taxable income.
+
+Once your final tax is computed, you are required to subtract the TDS from the tax liability.
+
+Tax to be Paid = Tax Liability – TDS
+
+Thus, the remaining amount after deducting TDS from tax liability needs to be paid to the Income Tax Department while filing returns.
+
+Documents Required to File Income Tax (ITR) in India
+If you are filing the income tax return online, there is a set of documents that you need to fill out and submit. The documents may vary according to the source of income. The documents are-
+
+Salaried Individual– Form 16, 16A, 26AS, Receipt of Rent for HRA, Payslips, Investment made under Section 80C, 80D, 80E, and 80G.
+
+Capital Gains– ELSS, SIPs, Mutual Fund statement, Debt fund, sale and purchase of Equity Funds. Purchase/selling price, details of capital gains, details of registration if any house property is sold. A Statement of capital gains through selling shares and stock trading.
+
+House Property– PAN Card details, Property address, Information of co-owner, Certificate of Home Loan interest.
+
+Other Sources- Bank details, information of interest received from tax-saving or corporate bonds.
+Note on Standard Deduction
+A standard deduction of Rs.50,000 is available from gross total income. You can claim this tax benefit irrespective of the amount spent on Transport and Medical Allowance.
+
+The tedious process of income tax return filing and claiming deductions has now become much more simplified with the introduction of e-filing. So, being a responsible citizen of India, make sure you fulfil your obligation and file your returns within the due period.
+
+Mutual funds have long been a popular investment avenue due to their potential for wealth creation and diversification benefits. However, NRIs investing in mutual funds need to navigate through a specific set of tax regulations and provisions that apply to them.
+
+Understanding the intricacies of NRI taxation of mutual funds is vital to optimising returns and complying with the tax laws of the home country and India.
+
+In this blog, we will delve into the nuances of NRI taxation of mutual funds, providing insights and guidance to help NRIs make informed investment decisions and ensure tax compliance.
+
+Synopsis
+NRIs can invest in Indian Mutual Funds following Foreign Exchange Management Act (FEMA) regulations. They need to set up an NRE (Non-resident External) or NRO (Non-resident Ordinary) account. After this, they must comply with KYC regulations. With an active bank account and completed KYC, NRIs can proceed to invest in Mutual Funds in India.
+
+Some Mutual Fund houses may impose restrictions on NRIs from the USA and Canada due to compliance obligations related to the Foreign Account Tax Compliance Act (FATCA). However, some fund houses permit these NRIs to invest under specific conditions and via offline transactions.
+
+NRIs can also benefit from potential currency appreciation, resulting in increased profits when the rupee value appreciates against their resident country's currency.
+
+Tax Implications
+NRIs investing in mutual funds in India need to consider the following tax implications:
+
+Tax Deducted at Source (TDS) 
+NRIs are subject to Tax Deducted at Source (TDS) when redeeming mutual funds, with the specific TDS rate determined by the scheme type (equity or non-equity) and the duration of holding the funds.
+
+ Profits earned from the sale of a mutual fund with a holding period of one year or less.
+
+ Profits earned from the sale of a mutual fund with a holding period of more than one year.
+Particulars
+
+TDS on Short-term Capital Gains
+
+TDS on Long-term Capital Gains
+
+TDS on Distributed Income under IDCW Option
+
+Equity Mutual Funds
+
+15%
+
+10%
+
+20%
+
+Other than Equity Oriented Fund
+
+30%
+
+Listed - 20% with indexation
+
+Unlisted - 10% without indexation
+
+20%
+
+The TDS is charged at the highest applicable rate. If the NRI falls in a lower tax slab, they are eligible for a refund when filing their returns.
+
+Capital Gains Tax
+The tax rate for capital gains on mutual funds depends on the type of scheme and the holding period.
+
+Particulars
+
+Tax on Short-term Capital Gains
+
+Tax on Long-term Capital Gains
+
+Equity Mutual Funds
+
+15%
+
+Gains exceeding Rs. 1 lakh - 10% without indexation benefit
+
+Other than Equity Oriented Fund
+
+Taxed based on the income tax bracket
+
+Listed - 20% with indexation
+
+Unlisted - 10% without indexation
+
+NRIs paying higher TDS than their lower tax slab can claim a refund when filing taxes. TDS deducts income tax at the highest rate initially; so if an NRI's tax slab is lower, they can reclaim the extra tax through refunds.
+
+Tax Return of Income
+NRIs are not required to file a return of income if their total income consists only of investment income or long-term capital gains with appropriate TDS deductions. 
+
+Filing returns in India also has its benefits. If your income falls in a lower tax slab, you are eligible for a refund on the TDS deduction when filing returns.
+
+Taxation of Dividends
+Dividend received from dividend schemes - equity as well as non-equity will be considered as income of the year and will be taxed as per the applicable tax slab rate. 
+
+Tax Benefits 
+Here are some of the key tax benefits an NRI can avail when investing in Mutual Funds -
+
+1) Double Taxation Avoidance Agreement (DTAA)
+DTAA is a treaty signed between two countries to prevent double taxation of the same income for residents. Under DTAA, gains from investments in India are taxed only in one country, depending on the terms of the agreement.
+NRIs can claim the benefit of taxes and TDS deducted in India against their tax liability in their country of residence.
+This deduction can be claimed by providing certain documents to the deductor, which can include a self-declaration cum indemnity format and a copy of citizenship/ PIO Proof. 
+Visit https://incometaxindia.gov.in/pages/international-taxation/dtaa.aspx for more information.
+
+2) Section 80C Deduction
+By investing in ELSS or Equity Linked Saving Schemes, tax benefits can be availed of under Section 80C, up to Rs 1,50,000.
+Key Terms to Remember About Mutual Funds Taxation for NRIs
+Here are some of the significant terminologies to take a note of-
+
+  Capital Gains Tax is a tax levied on the profit earned from selling certain assets like property or investments. It is categorised into Long-Term Capital Gains (LTCG) or Short-Term Capital Gains (STCG) based on the holding period.
+TDS is a mechanism in which the payer deducts a certain percentage of tax from the payment made to the recipient. It is submitted to the government on behalf of the recipient to ensure tax compliance and revenue collection.
+This refers to the profit obtained from the sale of certain assets held for a specified period. The holding period varies with the asset. It is subject to a different tax rate and benefits like indexation, depending on the asset type.
+It pertains to the profit gained from the sale of assets held for a short duration. It is taxed at a different rate compared to long-term gains.
+Indexation is a technique used to adjust the cost of acquiring an asset for inflation. It helps reduce the tax burden on long-term capital gains by considering the effect of inflation on the asset's original purchase price.
+IDCW (Income Distribution Cum Capital Withdrawal) is a dividend payout option in mutual funds where unitholders receive both investment profits (also known as income distribution) and and some of their invested money back at regular intervals.
+ These are mutual funds or funds that predominantly invest in equity shares of companies.
+
+These funds are mutual funds that primarily invest in assets other than equities, such as debt instruments.
+Conclusion
+Understanding the taxation of mutual funds for NRIs in India is crucial for making informed investment decisions and ensuring compliance with tax laws.
+
+It is important to stay updated on the provisions and benefits of the DTAA to optimise investment returns and fulfil tax obligations effectively.
+
+Knowledge of the tax implications makes it possible to navigate the investment landscape with confidence and maximise financial outcomes.
+
+You can also refer to AMFI (Association of Mutual Funds in India) guidelines on Mutual Fund Taxation : https://www.amfiindia.com/investor-corner/knowledge-center/tax-corner.html.
+
+The Income Tax Department in India levies income taxes on people according to the tax bracket they fall under. Taxpayers are constantly looking for ways to pay no income tax. However, they do not benefit from salary optimization. As a result, your tax obligations increase along with your income.
+
+Fortunately, there are several ways to lower your tax obligation under Indian income tax laws. Tax-saving investments are one of the best and most profitable ways to reduce your tax burden.
+
+Read this blog if you want to pay no tax on 10 lakh income. This blog provides various pieces of advice on tax planning for salaries above 10 lakhs.
+
+Income Tax Slabs for Individuals Under the Old Vs New Income Tax Regime
+First, let us examine the various tax structures and how to select between the old and new tax structures.
+
+The income tax slab rates for the old and new income tax systems are as follows-
+
+Income Tax Slabs
+
+ 
+
+How to Reduce Tax on 10 Lakhs Salary
+You should understand your salary structure to save more on income tax for 10 lakhs.
+
+A salary qualifies for a variety of grants and tax exemptions. The portion of salary subject to taxation and not covered by any exemptions is known as Taxable Income. As a result, your salary component may also include different tax-exempt benefits. Therefore, your taxable income will be the balance of your salary.
+
+Thus-
+
+Salary - Exemptions = Taxable Salary Income
+Taxable Salary Income - Deductions = Net Taxable Income
+Therefore, maximizing Exemptions and Tax Deductions can reduce your Tax Burden.
+
+You may also want to know How to Save Tax in India?
+Salary Exemptions Permitted Under Income Tax
+Several salary components qualify for Tax Exemptions, including-
+
+S.No.
+
+Salary Element
+
+Taxability
+
+1.
+
+Basic Salary
+
+Completely-Taxable
+
+2.
+
+Dearness Allowance
+
+Completely-Taxable
+
+3.
+
+HRA or House Rent Allowance
+
+Tax Exemption Up to A Specific Extent
+
+4.
+
+LTA or Leave Travel Allowance
+
+Exemption of Travel Ticket Costs for 2 Trips in 4 years Under 10(5)
+
+5.
+
+Mobile/Internet Allowance
+
+An Exemption is Allowed If Utilized Primarily for Office Purposes Along with Submitted Proofs or Bills
+
+6.
+
+Education Allowance for Children
+
+Per Child, Rs 4800 and a Maximum of 2 Children
+
+7.
+
+Food Allowance
+
+Rs 50 Per Meal and a Maximum of 2 Meals a Day
+
+8.
+
+Standard Deductions
+
+Rs 50,000 Will be Given to Everyone Without Restrictions
+
+9.
+
+Professional Tax
+
+It varies from State to State but Typically is Rs 2,400
+
+Salary Deductions Permitted Under Income Tax
+If you are wondering how to save tax for salary above 10 lakhs income, understand that several salary components qualify for Tax Deductions when you plan your taxes for a salary of more than Rs 10 lakhs, including-
+
+S.No.
+
+Salary Element
+
+Taxability
+
+1.
+
+On Policy Premium of Your Health Insurance (Under Section 80D)
+
+Tax Deductions of Rs 25,000 for you, your Spouse, and any dependent children and Rs 25,000 for Parents, along with Rs 50,000 if aged 60 and above
+
+2.
+
+On Loan for Higher Education (Under Section 80E)
+
+Loans are taken for the higher education of you, your Spouse, your dependent Children, or a Student over whom you have legal custody and are subject to an interest deduction for 8 years beginning with the year of repayment
+
+3.
+
+Charity Donations (Under Section 80G)
+
+50%-100% of the amount that qualifies
+
+4.
+
+Investments are Made in Tools of Tax Saving (Under Section 80C)
+
+A yearly tax benefit of Rs 1,50,000. You have a variety of assets to choose from, including the Employees Provident Fund (EPF), Public Provident Fund (PPF), Equity Linked Savings Scheme (ELSS), Sukanya Smriddhi Yojana (SSY), National Savings Certificate (NSC), Fixed Deposit for 5 Years, and more
+
+5.
+
+On Disabled Dependent Treatment Cost (Under Section 80DD)
+
+You are eligible for tax relief of Rs 75,000 on a 40% disability and Rs 1,25,000 on an 80% disability if you have dependents with disabilities for whom you pay medical expenses
+
+6.
+
+Deductions are Available on Home loans
+
+Deductions of up to Rs 1.5 lakhs in Principal Amount under Section 80C and up to Rs 2 lakhs in Interest Amount under Section 24b
+
+7.
+
+Life Insurance Policy Maturity Amount
+
+The maturity profits are tax-exempt if the sum assured is 20% for policies issued before April 1, 2012; 10% for policies issued after April 1, 2012; and 15% for policies issued for people with disabilities or diseases after April 1, 2013
+
+How to Save Tax for Salary above 15 Lakhs
+To save tax for salary above 15 lakhs, you can get a deduction under various sections of the Income Tax Act, by investing in various investment options. It can be done by opting for ELSS mutual funds, ULIP, EPF, Term plan insurance, etc.
+
+Conclusion
+In conclusion, choosing the old tax system and utilizing all available deductions and exemptions on tax-saving investments is the best way to reduce your tax liability for a salary above Rs. 10 lakhs. Alternatively, you can file your income tax return using the new tax system. However, you cannot take advantage of any carried-forward losses or tax-saving investment deductions once chosen. Thus, carefully considering all components of your income is recommended.

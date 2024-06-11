@@ -1,0 +1,262 @@
+Is Crypto ‘Currency’ Or An ‘Asset
+Crypto and NFTs were categorised as "Virtual Digital Assets", and Section 2(47A) was added to the Income Tax Act to define this term. The definition is quite detailed but mainly includes any information, code, number or token (not Indian or foreign fiat currency) generated through cryptographic means. In simple words, VDAs mean all types of crypto assets, including NFTs, tokens, and cryptocurrencies, but they will not include gift cards or vouchers.
+
+Is Crypto Taxed In India?
+Yes, gains from cryptocurrency are taxable in India. The government's official stance on cryptocurrencies and other VDAs was clarified in the 2022 Budget. 
+
+How Is Cryptocurrency Taxed In India?
+In India, cryptocurrencies are classified as virtual digital assets and are subject to taxation. 
+
+Gains made from trading cryptocurrencies are taxed at a rate of 30% (plus 4% cess) according to Section 115BBH. 
+Section 194S levies 1% Tax Deducted at Source (TDS) on the transfer of crypto assets from July 01, 2022, if the transactions exceed ₹50,000 (or even ₹10,000 in some cases) in the same financial year. 
+The crypto tax applies to all investors, whether private or commercial, who transfer digital assets during the year.
+The tax rate is the same for short-term and long-term gains, and it applies to all types of income earned by the investor.
+Therefore, the gains from trading, selling, or swapping cryptocurrency will be taxed at a flat 30% (plus a 4% surcharge), irrespective of whether the income is treated as capital gains or business income. 
+
+In addition to this tax, 1% TDS will also apply on the sale of crypto assets of more than Rs 50,000 (or Rs 10,000 in certain cases).
+
+Use our crypto tax calculator to calculate your taxes easily.
+
+Crypto Tax Highlights
+
+30% tax on crypto income as per Section 115BBH, applicable from April 1, 2022
+1% TDS on the transfer of VDAs as per Section 194S, applicable from July 1, 2022
+No deduction is allowed except for the cost of acquisition.
+Crypto Gains should be reported under Schedule VDA in the ITR.
+Which Crypto Transactions Are Liable To Tax In India?
+If you engage in any of the following transactions, you will be required to pay a 30% tax:
+
+Spending cryptocurrencies to purchase goods or services.
+Exchanging cryptocurrencies for other cryptocurrencies
+Trading cryptocurrency using fiat currency such as ₹(INR)
+Receive cryptocurrency as payment for a service
+Receiving cryptocurrency as a gift
+Mining cryptocurrency
+Drawing a salary in crypto
+Staking crypto and earning stake benefits
+Receiving Airdrops
+How To Calculate Tax On Crypto?
+Now that you know you'll have to pay a 30% tax on your profits from crypto, let us see how to calculate the profits.
+
+Gains are nothing but Sale Price - Cost Price. 
+
+Crypto Bookkeeping: 
+
+The computation of tax on crypto, when you have a large amount of transactions in different exchanges and wallets, will be quite complex. Thus one needs to implement crypto bookkeeping software to manage and consolidate all such transactions. This will help you generate reports like capital gain reports, Holding reports etc. It involves the following 
+
+Importing all transactions like deposits, withdrawals, Trades etc., from different exchanges and wallets.
+The software will automatically recognise transactions like deposits, withdrawals, staking income, trades etc.
+Pending entries for categorisation need to be classified. 
+The last stage is closing balance verification. This ensures that the closing balance, as per actual holdings, matches the books.
+See how much tax you are liable to pay on crypto gains.
+
+Understanding TDS On Crypto Transactions
+Tax Deducted at Source (TDS) aims to tax the crypto traders and investors as and when they carry out a transaction by deducting a certain percentage at the source. A buyer who owes a payment to the seller must subtract the TDS amount and forward it to the central government. Only the balance amount will be paid to the seller. In India, the TDS rate for crypto is set at 1%. Starting from July 01, 2022, the buyer will be responsible for deducting TDS at the 1% rate while making payment to the seller for the transfer of Crypto/NFT. If the transaction takes place on an exchange, then the exchange may deduct the TDS and pay the balance to the seller. Indian exchanges automatically deduct TDS, while individuals trading on foreign exchanges must manually deduct TDS and file their TDS returns.
+
+P2P Transactions: In P2P transactions, the buyer is responsible for deducting TDS and filing Form 26QE or 26Q, whichever is applicable. 
+Eg: Buying cryptocurrency using ₹(INR) over a P2P platform or international exchange.
+Crypto-to-Crypto Transactions: TDS will be applicable to both buyer and seller at 1%.
+Eg: Buying crypto with stablecoins
+Non-Applicability of 194S TDS on VDA: It is important to note that TDS under Section 194S is applicable at the time of purchase of VDA from an Indian Tax Resident only. Thus if you are Trading in an International exchange, DEX, you will be interacting with a non-resident or non-resident entity, then one can take a stand that Section 194S is not applicable.
+
+Tax On Airdrops
+An airdrop refers to the process of distributing cryptocurrency tokens or coins directly to specific wallet addresses, generally for free. Airdrops are done to increase awareness about the token and increase liquidity in the early stages of a new currency. Airdrops are taxed at 30%. Such airdrops are taxable under Income from other sources. 
+
+On What Amount Will The Airdrops Be Taxed? 
+Receiving crypto: Airdrops will be taxed on the value determined as per Rule 11UA, i.e. at the fair market value of the tokens as on the date of receipt on exchanges or DEXes. Tax will be levied at 30% on such value.
+
+Sell, swap, or spend them later: If you sell, swap or spend those tokens later, then a 30% tax will be levied on the gains made.
+
+E.g: 
+1) Let’s say Mr Bob receives 20,000 ABC tokens as Airdrop on April 01 2022, but these tokens do not trade either on exchanges or DEXs. Then, no tax will be levied.
+
+2) Now, let’s assume Mr Bob receives 20,000 ABC tokens as an Airdrop on April 01, 2022, too, and ABC tokens are traded (exchanging, buying, or selling) on exchanges or DEXes. On April 01, 2022, the ABC token price on the exchange is ₹10.
+
+In this case, the tax will be charged at 30% on Rs 2,00,000 (20,000* Rs 10).
+Now, if Mr Bob sells these tokens at Rs 5,00,000, then Rs 2,00,000 will be considered as a cost, and the balance of Rs 3,00,000 will be taxable at 30%.
+Tax On Mining Cryptocurrency
+Mining refers to the process of verifying and recording transactions on a blockchain network using powerful computers or specialised mining hardware. In a blockchain network, transactions are verified by a group of nodes or computers, called miners, who compete to solve complex mathematical puzzles. The first miner to solve the puzzle is rewarded with a certain amount of cryptocurrency, which varies depending on the network. 
+
+Mining income received will be taxed at a flat 30%. The cost of acquisition for crypto mining will be considered ‘Zero’ for computing the gains at the time of sale. No expenses such as electricity or infra cost can be included in the cost of acquisition. 
+
+On What Amount Will Crypto Mining Be Taxed? 
+Receiving crypto: Crypto assets received at the time of mining will be taxed on the value determined as per Rule 11UA, i.e. at the fair market value of the tokens as on the date of receipt on exchanges or DEXes. Tax will be levied at 30% on such value.
+
+Sell, swap, or spend them later: If you sell, swap or spend those assets later, a 30% tax will be levied on the gains made.
+
+Tax On Crypto Staking/Forging
+In the realm of cryptocurrencies, forging (or minting) refers to the process of generating new blocks in the blockchain using the Proof-of-Stake algorithm in exchange for rewards in the form of newly generated cryptocurrencies and commission fees.
+
+If you stake cryptocurrency, you may have to pay taxes on your earnings. The amount you earn from staking depends on the Annual Percentage Rate (APR) offered by the validator. For instance, if you stake 100 coins with a 10% APR, you will earn 10% interest every year.
+
+This income you earn from staking will be taxed at 30%. Additionally, when you sell your crypto asset, you will be liable to pay 30% Capital Gains Tax.
+
+In general, transferring your coins to a staking pool or wallet does not typically attract taxes. Additionally, moving assets between wallets is often considered tax-exempt. 
+
+Tax On Crypto Gifts
+Tax treatment on gifts differs depending on whether it is money, immovable property or movable property. In Budget 2022, VDAs were included within the scope of movable properties. Therefore, crypto gifts received will be taxed as ‘income from other sources’ at regular slab rates if the total value of gifts is more than Rs 50,000.
+
+Cryptos can be gifted either through gift cards, crypto tokens or crypto paper wallets. 
+Crypto received as gifts from relatives will be tax-exempt. However, if the value of the crypto gift from a non-relative exceeds Rs 50,000, it becomes taxable. Gifts received on special occasions, through inheritance or will, marriage, or in contemplation of death, are also exempt from taxes.
+
+You can use ClearTax's Crypto Tax feature to calculate taxes on cryptocurrencies received as gifts.
+
+clear tax crypto 
+Loss From Crypto Transactions
+As per Section 115BBH, losses incurred in crypto cannot be offset against any income, including gains from cryptocurrency. So, a crypto investor cannot off set previous year losses from a crypto asset while filing ITR this year.
+
+Moreover, Indian investors in cryptocurrency are not permitted to claim expenses related to their crypto activities, except for the acquisition cost or purchase cost.
+
+Eg: Mr X purchased Rs 60,000 worth of Bitcoins and later sold it for Rs 80,000. He also bought Ethereum worth Rs 40,000 and sold them for Rs 30,000. The exchange charged a trading fee of Rs 1,000. The tax on both these transactions shall be computed as under:
+
+Currency
+
+Buy (in Rs)
+
+Sell (in Rs)
+
+Net Profit or (Loss)
+
+Tax Rate
+
+Tax Amount
+
+Bitcoin
+
+60,000
+
+80,000
+
+20,000
+
+30%
+
+6,000
+
+Ethereum
+
+40,000
+
+30,000
+
+(10,000)
+
+30%
+
+-
+
+Total
+
+ 
+
+ 
+
+ 
+
+ 
+
+6,000
+
+Here, Rs 10,000 loss is not allowed to be offset against the gains of Rs 20,000. The entire Rs 20,000 income is taxed at 30%. Also, the trading fee of Rs 1,000 is not allowed as a deduction.
+
+Disclosure Of Crypto Assets In Schedule Of Assets And Liabilities 
+Ministry of Corporate Affairs (MCA) has made it mandatory to disclose gains and losses in virtual currencies in notes to accounts of Company Financial statements. Also, the value of cryptocurrency as of the balance sheet date is to be reported. Accordingly, changes have been made in schedule III of the Companies Act starting from 1 April 2021. This mandate can be considered as the first move of the government towards regulating cryptocurrencies.  
+
+Please note that this mandate is only for companies, and no such compliance is required from individual taxpayers. However, reporting and paying taxes on the gains of cryptocurrency is a must for all. 
+
+For Individuals, whether crypto assets need to be declared in the Asset and liability schedule or not is an unanswered question. In Schedule Asset and Liability, currently, there is no specific field for disclosure of your Crypto holdings.
+
+Summary of Crypto Transactions and the Applicable Rate
+Transaction
+
+Tax Treatment
+
+Buying crypto
+
+1% Tax Deducted at Source (TDS) by the exchange (excluding international & P2P trades)
+
+Selling crypto
+
+30% tax on any capital gains
+
+Trading crypto for crypto
+
+30% tax on any gains
+
+Holding crypto
+
+Generally tax-free, but subject to capital gains tax upon disposal
+
+Moving crypto between your own wallets
+
+Generally tax-free; ensure proper documentation for audit trails
+
+Airdrops of crypto
+
+Considered as income at your applicable tax rate; 30% tax if later sold
+
+Hard forks
+
+Income Tax at your applicable tax rate upon receipt; 30% tax if later sold
+
+Gifts of crypto
+
+The recipient will be subject to tax; exemptions is for gifts from close family
+
+Donating crypto
+
+Only cash donations are tax deductible; any perceived profits may be subject to 30% tax
+
+Mining rewards
+
+Income Tax at your individual tax rate; 30% tax if later sold
+
+Staking rewards
+
+Income Tax at your individual tax rate; 30% tax if later sold
+
+Plan Your Taxes In Advance
+Save Taxes with Tax Planner Tool
+Try Now!
+Timeline Of Crypto Tax Regulations In India 
+Dates
+
+Events
+
+2013
+
+A circular was released by the RBI which advised investors to exercise caution when considering speculative investments, including cryptocurrencies.
+
+2018
+
+Despite the RBI's numerous warnings, the Indian crypto markets continued to gather momentum and attracted a record number of users. In order to prevent this trend from taking a huge leap, the RBI released a circular in April 2018, restricting banking facilities to the crypto exchanges.
+
+2020
+
+After a nearly two-year legal battle, the Indian Supreme Court ultimately overturned RBI's order, ruling that it was unconstitutional to prohibit trading in cryptocurrencies without any regulatory framework in place. This landmark decision played a significant role in igniting the crypto boom of 2020 and marked a crucial turning point for the struggling Indian crypto market.
+
+2022
+
+Union Budget 2022 introduced crypto tax regulations, most important of them being a flat 30% tax on crypto and 1% TDS on sell transactions.
+
+Frequently Asked Questions
+How much tax is charged on cryptocurrency in India?
+
+In India, gains from cryptocurrency are subject to a 30% tax (along with applicable surcharge and 4% cess) under Section 115BBH.
+
+How to calculate taxes on cryptocurrency?
+
+As discussed above, the taxation of crypto gains is determined by the type of transaction. You can use our crypto tax calculator to calculate your taxes accurately and with ease.
+
+How do you calculate 30% tax on crypto?
+
+30% crypto tax will be levied on the income you made from cryptocurrency which can be calculated as:
+Sale Price - Cost Price = Income.
+
+How to report cryptocurrency on tax return?
+
+For the financial year 2023-24 and assessment year 2024-25, you will need to declare your cryptocurrency taxes using either the ITR-2 form (if reporting as capital gains) or the ITR-3 form (if reporting as business income). The new ITR forms include a specific section 'Schedule VDA' for reporting cryptocurrency gains or income. 
+
+What is 1% TDS on crypto? Who is required to pay TDS on crypto?
+
+Refer to this page for a detailed explanation on TDS on Cryptocurrency.
