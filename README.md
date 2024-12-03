@@ -23,7 +23,7 @@ TaxBot is a Retrieval-Augmented Generation (RAG) application designed to assist 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/taxbot.git
+   git clone https://github.com/pratikroy311/TAXBot.git
    cd taxbot
    ```
 2. Create and activate a virtual environment:
